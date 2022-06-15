@@ -1,0 +1,634 @@
+"","diff_otu","baseMean","log2FoldChange","lfcSE","stat","pvalue","padj","Study","CI_low","CI_hig","Significant","taxonomy","Taxonomy","ID_Taxonomy","Taxon","diff_oral","Taxon_oral","taxon_oral","absFC"
+"80","359079","28.3375220773765",3.68616160295574,"0.374836889718477","9.83404169670773","8.0328706855524e-23",6.42629654844192e-20,"PRJNA375772_Xi_an",2.95522966800471,4.41709353790676,"GC enriched","k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Streptococcus; s__anginosus"," s__anginosus","359079 
+  s__anginosus","359079; s__anginosus","*","* 359079; s__anginosus","* 359079 
+  s__anginosus",3.68616160295574
+"108","4318284","22.0168739457133",3.41784904068544,"0.44613916387601","7.66094823640123","1.84565242381139e-14",3.28115986455358e-12,"PRJNA375772_Xi_an",2.54787767112722,4.28782041024366,"GC enriched","k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Veillonellaceae; g__Dialister; s__"," g__Dialister","4318284 
+  g__Dialister","4318284; g__Dialister","*","* 4318284; g__Dialister","* 4318284 
+  g__Dialister",3.41784904068544
+"92","4297119","21.4409215905562",3.37282941173848,"0.459005300474665","7.34812737075277","2.01002918226797e-13",1.40601541299644e-10,"PRJNA375772_Inner_Mongolia",2.47776907581289,4.26788974766408,"GC enriched","k__Bacteria; p__Fusobacteria; c__Fusobacteriia; o__Fusobacteriales; f__Leptotrichiaceae; g__Leptotrichia; s__"," g__Leptotrichia","4297119 
+  g__Leptotrichia","4297119; g__Leptotrichia","*","* 4297119; g__Leptotrichia","* 4297119 
+  g__Leptotrichia",3.37282941173848
+"129","4396516","8.10370047956267",3.31166740310099,"0.286075798444304","11.5761886224211","5.44118488162603e-31",2.9201025531393e-29,"PRJNA481413",2.7538195961346,3.86951521006738,"GC enriched","k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__"," f__Lachnospiraceae","4396516 
+  f__Lachnospiraceae","4396516; f__Lachnospiraceae",""," 4396516; f__Lachnospiraceae"," 4396516 
+  f__Lachnospiraceae",3.31166740310099
+"148","4458501","53.1244279198637",3.30354133487629,"0.437114182038526","7.55761645497269","4.10522431211231e-14",6.5683588993797e-12,"PRJNA375772_Xi_an",2.45116867990116,4.15591398985141,"GC enriched","k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__[Tissierellaceae]; g__Parvimonas; s__"," g__Parvimonas","4458501 
+  g__Parvimonas","4458501; g__Parvimonas","*","* 4458501; g__Parvimonas","* 4458501 
+  g__Parvimonas",3.30354133487629
+"169","509149","24.9200807158323",3.1881184759261,"0.439247183625994","7.25814210032748","3.92443165329178e-13",2.5424538809056e-12,"PRJEB26931",2.33158646785542,4.04465048399679,"GC enriched","k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Lactobacillaceae; g__Lactobacillus; s__"," g__Lactobacillus","509149 
+  g__Lactobacillus","509149; g__Lactobacillus","*","* 509149; g__Lactobacillus","* 509149 
+  g__Lactobacillus",3.1881184759261
+"136","4432270","8.38348162483357",3.096137783196,"0.395341329752905","7.83155605089693","4.81868434270079e-15",3.46219145729628e-14,"PRJEB26931",2.32522219017783,3.86705337621416,"GC enriched","k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Lactobacillaceae; g__Lactobacillus; s__mucosae"," s__mucosae","4432270 
+  s__mucosae","4432270; s__mucosae",""," 4432270; s__mucosae"," 4432270 
+  s__mucosae",3.096137783196
+"181","553611","16.1388849260706",3.04991892673234,"0.428997130022","7.10941568904187","1.16535263299832e-12",1.24304280853155e-10,"PRJNA375772_Xi_an",2.21337452318944,3.88646333027524,"GC enriched","k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Bifidobacteriales; f__Bifidobacteriaceae; g__Bifidobacterium; s__"," g__Bifidobacterium","553611 
+  g__Bifidobacterium","553611; g__Bifidobacterium","*","* 553611; g__Bifidobacterium","* 553611 
+  g__Bifidobacterium",3.04991892673234
+"8","1018784","6.59699173898372",3.00982367352077,"0.372015626070391","8.0905840039936","5.93793305670248e-16",1.357241841532e-13,"PRJNA375772_Xi_an",2.28439320268351,3.73525414435803,"GC enriched","k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Prevotellaceae; g__Prevotella; s__"," g__Prevotella","1018784 
+  g__Prevotella","1018784; g__Prevotella","*","* 1018784; g__Prevotella","* 1018784 
+  g__Prevotella",3.00982367352077
+"139","4432270","5.23743455366254",2.95166443396646,"0.285386068110238","10.342706823468","4.51598299922272e-25",1.67786137586506e-23,"PRJNA481413",2.3951616011515,3.50816726678143,"GC enriched","k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Lactobacillaceae; g__Lactobacillus; s__mucosae"," s__mucosae","4432270 
+  s__mucosae","4432270; s__mucosae",""," 4432270; s__mucosae"," 4432270 
+  s__mucosae",2.95166443396646
+"172","509149","4.92286404352679",2.92919233904978,"0.279166130751689","10.4926494168994","9.33727798535163e-26",4.09991387902258e-24,"PRJNA481413",2.38481838408399,3.47356629401558,"GC enriched","k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Lactobacillaceae; g__Lactobacillus; s__"," g__Lactobacillus","509149 
+  g__Lactobacillus","509149; g__Lactobacillus","*","* 509149; g__Lactobacillus","* 509149 
+  g__Lactobacillus",2.92919233904978
+"104","4302282","12.9761104081494",2.89267812376202,"0.278635156946287","10.3815977691561","3.00699927308694e-25",1.21031720741749e-23,"PRJNA481413",2.34933956771676,3.43601667980727,"GC enriched","k__Bacteria; p__Fusobacteria; c__Fusobacteriia; o__Fusobacteriales; f__Leptotrichiaceae; g__Leptotrichia; s__"," g__Leptotrichia","4302282 
+  g__Leptotrichia","4302282; g__Leptotrichia","*","* 4302282; g__Leptotrichia","* 4302282 
+  g__Leptotrichia",2.89267812376202
+"174","529453","9.33293635090442",2.86510651859202,"0.389460993961982","7.35659427519383","1.88661655100324e-13",1.25299816217573e-12,"PRJEB26931",2.10565758036615,3.62455545681788,"GC enriched","k__Bacteria; p__Fusobacteria; c__Fusobacteriia; o__Fusobacteriales; f__Fusobacteriaceae; g__Fusobacterium; s__"," g__Fusobacterium","529453 
+  g__Fusobacterium","529453; g__Fusobacterium","*","* 529453; g__Fusobacterium","* 529453 
+  g__Fusobacterium",2.86510651859202
+"204","903373","8.19032085935793",2.80234559194126,"0.404855881913629","6.92183494703211","4.45830524923427e-12",3.10142973859775e-10,"PRJNA375772_Xi_an",2.01287662220968,3.59181456167284,"GC enriched","k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Veillonellaceae; g__Selenomonas; s__"," g__Selenomonas","903373 
+  g__Selenomonas","903373; g__Selenomonas","*","* 903373; g__Selenomonas","* 903373 
+  g__Selenomonas",2.80234559194126
+"179","553611","4.8950283029226",2.67322507366701,"0.393066800995553","6.8009434195315","1.03936239850158e-11",5.83812070647698e-11,"PRJEB26931",1.90674481172568,3.43970533560834,"GC enriched","k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Bifidobacteriales; f__Bifidobacteriaceae; g__Bifidobacterium; s__"," g__Bifidobacterium","553611 
+  g__Bifidobacterium","553611; g__Bifidobacterium","*","* 553611; g__Bifidobacterium","* 553611 
+  g__Bifidobacterium",2.67322507366701
+"91","4297119","6.91343745157773",2.64535049404566,"0.403945810722643","6.54877566204544","5.80106972391036e-11",3.06296481422467e-10,"PRJEB26931",1.85765616313651,3.43304482495481,"GC enriched","k__Bacteria; p__Fusobacteria; c__Fusobacteriia; o__Fusobacteriales; f__Leptotrichiaceae; g__Leptotrichia; s__"," g__Leptotrichia","4297119 
+  g__Leptotrichia","4297119; g__Leptotrichia","*","* 4297119; g__Leptotrichia","* 4297119 
+  g__Leptotrichia",2.64535049404566
+"76","336228","7.68532427950045",2.5960698868905,"0.267013956702022","9.72259996801449","2.41533976960858e-22",6.14004794063655e-21,"PRJNA481413",2.07539267132156,3.11674710245945,"GC enriched","k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Veillonellaceae; g__Dialister; s__"," g__Dialister","336228 
+  g__Dialister","336228; g__Dialister","*","* 336228; g__Dialister","* 336228 
+  g__Dialister",2.5960698868905
+"177","529453","4.88046652257513",2.56389331113556,"0.253529018451147","10.1128199320095","4.84687219691974e-24",1.56069284740816e-22,"PRJNA481413",2.06951172515583,3.0582748971153,"GC enriched","k__Bacteria; p__Fusobacteria; c__Fusobacteriia; o__Fusobacteriales; f__Fusobacteriaceae; g__Fusobacterium; s__"," g__Fusobacterium","529453 
+  g__Fusobacterium","529453; g__Fusobacterium","*","* 529453; g__Fusobacterium","* 529453 
+  g__Fusobacterium",2.56389331113556
+"132","4399326","38.9108930194928",2.54380123295372,"0.429376339261254","5.92440942910445","3.1342169077305e-09",8.76953890782994e-07,"PRJNA375772_Inner_Mongolia",1.70651737139428,3.38108509451316,"GC enriched","k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Veillonellaceae; g__Selenomonas; s__"," g__Selenomonas","4399326 
+  g__Selenomonas","4399326; g__Selenomonas","*","* 4399326; g__Selenomonas","* 4399326 
+  g__Selenomonas",2.54380123295372
+"94","4297119","4.11355799433961",2.44714427074493,"0.263745650937331","9.2784251116482","1.72002011926526e-20",3.9560462743101e-19,"PRJNA481413",1.93284025141714,2.96144829007273,"GC enriched","k__Bacteria; p__Fusobacteria; c__Fusobacteriia; o__Fusobacteriales; f__Leptotrichiaceae; g__Leptotrichia; s__"," g__Leptotrichia","4297119 
+  g__Leptotrichia","4297119; g__Leptotrichia","*","* 4297119; g__Leptotrichia","* 4297119 
+  g__Leptotrichia",2.44714427074493
+"162","463233","11.8259981843202",-2.44686957456915,"0.364875741593009","-6.70603522143285","1.99983472390969e-11",1.2798942233022e-09,"PRJNA375772_Xi_an",-3.15837727067552,-1.73536187846278,"Gastritis enriched","k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__S24-7; g__; s__"," f__S24-7","463233 
+  f__S24-7","463233; f__S24-7",""," 463233; f__S24-7"," 463233 
+  f__S24-7",2.44686957456915
+"38","1077325","5.19447740098833",2.43568810752182,"0.351102088002969","6.93726466104419","3.99764489168728e-12",2.90737810304529e-10,"PRJNA375772_Xi_an",1.75103903591603,3.12033717912761,"GC enriched","k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pasteurellales; f__Pasteurellaceae; g__Actinobacillus; s__parahaemolyticus"," s__parahaemolyticus","1077325 
+  s__parahaemolyticus","1077325; s__parahaemolyticus",""," 1077325; s__parahaemolyticus"," 1077325 
+  s__parahaemolyticus",2.43568810752182
+"133","4399326","9.48585864872308",2.42705821626465,"0.37255150164544","6.51469180917301","7.28390520118327e-11",4.1622315435333e-09,"PRJNA375772_Xi_an",1.70058278805604,3.15353364447326,"GC enriched","k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Veillonellaceae; g__Selenomonas; s__"," g__Selenomonas","4399326 
+  g__Selenomonas","4399326; g__Selenomonas","*","* 4399326; g__Selenomonas","* 4399326 
+  g__Selenomonas",2.42705821626465
+"13","1049979","47.1076168012869",2.41802267122294,"0.326200092926382","7.41269767746094","1.23755788516501e-13",1.65007718022001e-11,"PRJNA375772_Xi_an",1.78193249001649,3.05411285242938,"GC enriched","k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__[Paraprevotellaceae]; g__[Prevotella]; s__"," g__[Prevotella]","1049979 
+  g__[Prevotella]","1049979; g__[Prevotella]","*","* 1049979; g__[Prevotella]","* 1049979 
+  g__[Prevotella]",2.41802267122294
+"175","529453","10.5259075683851",2.25477889936532,"0.400570795544625","5.6289148496202","1.81346889655558e-08",3.17130373285157e-06,"PRJNA375772_Inner_Mongolia",1.4736658480533,3.03589195067733,"GC enriched","k__Bacteria; p__Fusobacteria; c__Fusobacteriia; o__Fusobacteriales; f__Fusobacteriaceae; g__Fusobacterium; s__"," g__Fusobacterium","529453 
+  g__Fusobacterium","529453; g__Fusobacterium","*","* 529453; g__Fusobacterium","* 529453 
+  g__Fusobacterium",2.25477889936532
+"166","471157","5.38396854955284",2.22746803662803,"0.343130051290198","6.49161455912289","8.49212986581799e-11",4.66624882613916e-09,"PRJNA375772_Xi_an",1.55836443661215,2.89657163664392,"GC enriched","k__Bacteria; p__Actinobacteria; c__Coriobacteriia; o__Coriobacteriales; f__Coriobacteriaceae; g__Slackia; s__"," g__Slackia","471157 
+  g__Slackia","471157; g__Slackia","*","* 471157; g__Slackia","* 471157 
+  g__Slackia",2.22746803662803
+"95","4297119","",2.20785821553107,"","","",0.000329028694991738,"Combined",1.00291325526834,3.4128031757938,"GC enriched","k__Bacteria; p__Fusobacteria; c__Fusobacteriia; o__Fusobacteriales; f__Leptotrichiaceae; g__Leptotrichia; s__"," g__Leptotrichia","4297119 
+  g__Leptotrichia","4297119; g__Leptotrichia","*","* 4297119; g__Leptotrichia","* 4297119 
+  g__Leptotrichia",2.20785821553107
+"81","359079","3.92353117146893",2.20357050971633,"0.258002347741671","8.54089324769514","1.33188216208306e-17",2.3825892010597e-16,"PRJNA481413",1.70046593162007,2.70667508781259,"GC enriched","k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Streptococcus; s__anginosus"," s__anginosus","359079 
+  s__anginosus","359079; s__anginosus","*","* 359079; s__anginosus","* 359079 
+  s__anginosus",2.20357050971633
+"14","1049979","75.1645295146756",2.20031704850301,"0.32198464563077","6.83360861569212","8.28047474780001e-12",7.99893860637481e-11,"PRJNA481413",1.572446989523,2.82818710748301,"GC enriched","k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__[Paraprevotellaceae]; g__[Prevotella]; s__"," g__[Prevotella]","1049979 
+  g__[Prevotella]","1049979; g__[Prevotella]","*","* 1049979; g__[Prevotella]","* 1049979 
+  g__[Prevotella]",2.20031704850301
+"119","4342220","6.87289446564849",2.18502935779939,"0.269451919091576","8.10916235136103","5.09699068145309e-16",7.24072499747601e-15,"PRJNA481413",1.65959811557082,2.71046060002796,"GC enriched","k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Prevotellaceae; g__Prevotella; s__"," g__Prevotella","4342220 
+  g__Prevotella","4342220; g__Prevotella","*","* 4342220; g__Prevotella","* 4342220 
+  g__Prevotella",2.18502935779939
+"75","336228","8.42975232237325",2.16205799955358,"0.317499262583949","6.80964731054112","9.78383043649797e-12",6.52255362433198e-10,"PRJNA375772_Xi_an",1.54293443751488,2.78118156159228,"GC enriched","k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Veillonellaceae; g__Dialister; s__"," g__Dialister","336228 
+  g__Dialister","336228; g__Dialister","*","* 336228; g__Dialister","* 336228 
+  g__Dialister",2.16205799955358
+"192","73894","3.6513300653402",2.13421313381086,"0.385584170379135","5.53501232094757","3.1120647678216e-08",1.24012845087532e-07,"PRJEB26931",1.38232400157155,2.88610226605017,"GC enriched","k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__"," o__Clostridiales","73894 
+  o__Clostridiales","73894; o__Clostridiales","*","* 73894; o__Clostridiales","* 73894 
+  o__Clostridiales",2.13421313381086
+"178","529453","",2.13236849903624,"","","",1.0919420819722e-06,"Combined",1.27493988038959,2.98979711768289,"GC enriched","k__Bacteria; p__Fusobacteria; c__Fusobacteriia; o__Fusobacteriales; f__Fusobacteriaceae; g__Fusobacterium; s__"," g__Fusobacterium","529453 
+  g__Fusobacterium","529453; g__Fusobacterium","*","* 529453; g__Fusobacterium","* 529453 
+  g__Fusobacterium",2.13236849903624
+"9","1018784","7.42064983845465",2.06103962172131,"0.273927859974504","7.52402337576448","5.31158420527862e-14",6.25730529548676e-13,"PRJNA481413",1.52688029477103,2.59519894867159,"GC enriched","k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Prevotellaceae; g__Prevotella; s__"," g__Prevotella","1018784 
+  g__Prevotella","1018784; g__Prevotella","*","* 1018784; g__Prevotella","* 1018784 
+  g__Prevotella",2.06103962172131
+"153","4468411","2.8228659169526",2.0144143576119,"0.247615814967877","8.13524111080395","4.11119296319015e-16",6.20533187881514e-15,"PRJNA481413",1.53156351842454,2.49726519679926,"GC enriched","k__Bacteria; p__Fusobacteria; c__Fusobacteriia; o__Fusobacteriales; f__Fusobacteriaceae; g__Fusobacterium; s__"," g__Fusobacterium","4468411 
+  g__Fusobacterium","4468411; g__Fusobacterium","*","* 4468411; g__Fusobacterium","* 4468411 
+  g__Fusobacterium",2.0144143576119
+"135","4399326","",2.00692352642559,"","","",5.98465925955504e-12,"Combined",1.43519537090436,2.57865168194683,"GC enriched","k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Veillonellaceae; g__Selenomonas; s__"," g__Selenomonas","4399326 
+  g__Selenomonas","4399326; g__Selenomonas","*","* 4399326; g__Selenomonas","* 4399326 
+  g__Selenomonas",2.00692352642559
+"183","553611","",1.99254580559665,"","","",1.76733764316767e-05,"Combined",1.08272915409604,2.90236245709725,"GC enriched","k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Bifidobacteriales; f__Bifidobacteriaceae; g__Bifidobacterium; s__"," g__Bifidobacterium","553611 
+  g__Bifidobacterium","553611; g__Bifidobacterium","*","* 553611; g__Bifidobacterium","* 553611 
+  g__Bifidobacterium",1.99254580559665
+"82","359079","",1.98560453255844,"","","",0.00150186181604355,"Combined",0.759606827190273,3.21160223792661,"GC enriched","k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Streptococcus; s__anginosus"," s__anginosus","359079 
+  s__anginosus","359079; s__anginosus","*","* 359079; s__anginosus","* 359079 
+  s__anginosus",1.98560453255844
+"173","509149","",1.97334802270915,"","","",0.00261544748571865,"Combined",0.688253454797288,3.25844259062101,"GC enriched","k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Lactobacillaceae; g__Lactobacillus; s__"," g__Lactobacillus","509149 
+  g__Lactobacillus","509149; g__Lactobacillus","*","* 509149; g__Lactobacillus","* 509149 
+  g__Lactobacillus",1.97334802270915
+"118","4342220","6.30965026091683",1.95945006352705,"0.385167723883198","5.08726443579486","3.63265163798959e-07",1.3838672906627e-05,"PRJNA375772_Xi_an",1.20837300195481,2.71052712509928,"GC enriched","k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Prevotellaceae; g__Prevotella; s__"," g__Prevotella","4342220 
+  g__Prevotella","4342220; g__Prevotella","*","* 4342220; g__Prevotella","* 4342220 
+  g__Prevotella",1.95945006352705
+"107","4318284","28.687731483721",1.95691462402121,"0.470596027475424","4.15837472007434","3.20519936632711e-05",0.00144647545596504,"PRJNA375772_Inner_Mongolia",1.03925237044414,2.87457687759829,"GC enriched","k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Veillonellaceae; g__Dialister; s__"," g__Dialister","4318284 
+  g__Dialister","4318284; g__Dialister","*","* 4318284; g__Dialister","* 4318284 
+  g__Dialister",1.95691462402121
+"39","1077325","6.98056636548896",1.93939329226991,"0.28577037108446","6.78654433246585","1.14851223719408e-11",1.08770864816616e-10,"PRJNA481413",1.38214106865521,2.49664551588461,"GC enriched","k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pasteurellales; f__Pasteurellaceae; g__Actinobacillus; s__parahaemolyticus"," s__parahaemolyticus","1077325 
+  s__parahaemolyticus","1077325; s__parahaemolyticus",""," 1077325; s__parahaemolyticus"," 1077325 
+  s__parahaemolyticus",1.93939329226991
+"110","4318284","",1.93132146411232,"","","",8.7069159486392e-05,"Combined",0.966677487254903,2.89596544096973,"GC enriched","k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Veillonellaceae; g__Dialister; s__"," g__Dialister","4318284 
+  g__Dialister","4318284; g__Dialister","*","* 4318284; g__Dialister","* 4318284 
+  g__Dialister",1.93132146411232
+"105","4302282","",1.91156638464878,"","","",3.31550383323734e-07,"Combined",1.17759614601763,2.64553662327993,"GC enriched","k__Bacteria; p__Fusobacteria; c__Fusobacteriia; o__Fusobacteriales; f__Leptotrichiaceae; g__Leptotrichia; s__"," g__Leptotrichia","4302282 
+  g__Leptotrichia","4302282; g__Leptotrichia","*","* 4302282; g__Leptotrichia","* 4302282 
+  g__Leptotrichia",1.91156638464878
+"194","73894","3.14950491778544",1.90558726135182,"0.341928838951397","5.57305218008443","2.50314555290398e-08",1.1779508484254e-06,"PRJNA375772_Xi_an",1.2388260253966,2.57234849730704,"GC enriched","k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__"," o__Clostridiales","73894 
+  o__Clostridiales","73894; o__Clostridiales","*","* 73894; o__Clostridiales","* 73894 
+  o__Clostridiales",1.90558726135182
+"101","4302282","22.4498864797148",1.86574442842414,"0.313079205441202","5.95933679400671","2.5326365534805e-09",1.13324754257433e-08,"PRJEB26931",1.2552399778138,2.47624887903449,"GC enriched","k__Bacteria; p__Fusobacteria; c__Fusobacteriia; o__Fusobacteriales; f__Leptotrichiaceae; g__Leptotrichia; s__"," g__Leptotrichia","4302282 
+  g__Leptotrichia","4302282; g__Leptotrichia","*","* 4302282; g__Leptotrichia","* 4302282 
+  g__Leptotrichia",1.86574442842414
+"140","4432270","",1.83777554707581,"","","",0.00850593476785903,"Combined",0.468879468852224,3.2066716252994,"GC enriched","k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Lactobacillaceae; g__Lactobacillus; s__mucosae"," s__mucosae","4432270 
+  s__mucosae","4432270; s__mucosae",""," 4432270; s__mucosae"," 4432270 
+  s__mucosae",1.83777554707581
+"44","1087878","6.16528000845283",1.80894415547011,"0.237524561986409","7.61581935081567","2.62023942579538e-14",3.16393910664792e-13,"PRJNA481413",1.34577125959661,2.2721170513436,"GC enriched","k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Actinomycetaceae; g__Actinomyces; s__"," g__Actinomyces","1087878 
+  g__Actinomyces","1087878; g__Actinomyces","*","* 1087878; g__Actinomyces","* 1087878 
+  g__Actinomyces",1.80894415547011
+"134","4399326","5.79672546285861",1.80650974641305,"0.261097165578144","6.91891749346615","4.55107810065707e-12",4.57952233878617e-11,"PRJNA481413",1.29737027353567,2.31564921929043,"GC enriched","k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Veillonellaceae; g__Selenomonas; s__"," g__Selenomonas","4399326 
+  g__Selenomonas","4399326; g__Selenomonas","*","* 4399326; g__Selenomonas","* 4399326 
+  g__Selenomonas",1.80650974641305
+"199","851961","3.89243368397",1.7722600453277,"0.339683033876095","5.2173934773974","1.81458516497028e-07",7.64035858934856e-06,"PRJNA375772_Xi_an",1.10987812926931,2.43464196138608,"GC enriched","k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Prevotellaceae; g__Prevotella; s__"," g__Prevotella","851961 
+  g__Prevotella","851961; g__Prevotella","*","* 851961; g__Prevotella","* 851961 
+  g__Prevotella",1.7722600453277
+"130","4396516","",1.74898111895419,"","","",0.00250686806500514,"Combined",0.61484470829784,2.88311752961053,"GC enriched","k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__"," f__Lachnospiraceae","4396516 
+  f__Lachnospiraceae","4396516; f__Lachnospiraceae",""," 4396516; f__Lachnospiraceae"," 4396516 
+  f__Lachnospiraceae",1.74898111895419
+"128","4396516","23.406052751666",1.72284212340775,"0.378044840470747","4.55724278967131","5.1829500739014e-06",0.00015356889107856,"PRJNA375772_Xi_an",0.985654684489796,2.46002956232571,"GC enriched","k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__"," f__Lachnospiraceae","4396516 
+  f__Lachnospiraceae","4396516; f__Lachnospiraceae",""," 4396516; f__Lachnospiraceae"," 4396516 
+  f__Lachnospiraceae",1.72284212340775
+"163","463233","",-1.70568909515025,"","","",7.15793957634101e-08,"Combined",-2.32625516462211,-1.08512302567839,"Gastritis enriched","k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__S24-7; g__; s__"," f__S24-7","463233 
+  f__S24-7","463233; f__S24-7",""," 463233; f__S24-7"," 463233 
+  f__S24-7",1.70568909515025
+"197","851961","9.70202785060733",1.6812785622324,"0.382357856237344","4.39713356167781","1.09689852635532e-05",3.46803845458449e-05,"PRJEB26931",0.935680742569584,2.42687638189523,"GC enriched","k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Prevotellaceae; g__Prevotella; s__"," g__Prevotella","851961 
+  g__Prevotella","851961; g__Prevotella","*","* 851961; g__Prevotella","* 851961 
+  g__Prevotella",1.6812785622324
+"200","851961","3.11957934213965",1.66565037138748,"0.241241855236384","6.90448334413352","5.03864684400762e-12",4.96666617480751e-11,"PRJNA481413",1.19522875367653,2.13607198909843,"GC enriched","k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Prevotellaceae; g__Prevotella; s__"," g__Prevotella","851961 
+  g__Prevotella","851961; g__Prevotella","*","* 851961; g__Prevotella","* 851961 
+  g__Prevotella",1.66565037138748
+"150","4458501","",1.6520881581005,"","","",0.000872062117620867,"Combined",0.679369067703084,2.62480724849792,"GC enriched","k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__[Tissierellaceae]; g__Parvimonas; s__"," g__Parvimonas","4458501 
+  g__Parvimonas","4458501; g__Parvimonas","*","* 4458501; g__Parvimonas","* 4458501 
+  g__Parvimonas",1.6520881581005
+"88","3756908","12.2349558666385",1.61868516300438,"0.41823190081372","3.87030534938879","0.000108699118479904",0.00380175166883464,"PRJNA375772_Inner_Mongolia",0.803132956417626,2.43423736959113,"GC enriched","k__Bacteria; p__Actinobacteria; c__Coriobacteriia; o__Coriobacteriales; f__Coriobacteriaceae; g__Olsenella; s__uli"," s__uli","3756908 
+  s__uli","3756908; s__uli","*","* 3756908; s__uli","* 3756908 
+  s__uli",1.61868516300438
+"49","1102876","5.46353446489864",1.61307245902629,"0.265089656812814","6.08500715727778","1.16486106693953e-09",8.79106086455928e-09,"PRJNA481413",1.0961476282413,2.12999728981127,"GC enriched","k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Micrococcaceae; g__Rothia; s__mucilaginosa"," s__mucilaginosa","1102876 
+  s__mucilaginosa","1102876; s__mucilaginosa","*","* 1102876; s__mucilaginosa","* 1102876 
+  s__mucilaginosa",1.61307245902629
+"112","4338372","10.3214621222648",1.6021578481847,"0.421017213639011","3.8054449943665","0.000141549470303694",0.00482994412085045,"PRJNA375772_Inner_Mongolia",0.781174281588634,2.42314141478078,"GC enriched","k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Prevotellaceae; g__Prevotella; s__"," g__Prevotella","4338372 
+  g__Prevotella","4338372; g__Prevotella","*","* 4338372; g__Prevotella","* 4338372 
+  g__Prevotella",1.6021578481847
+"10","1018784","",1.58888014827472,"","","",0.00605939551080622,"Combined",0.454213968701284,2.72354632784816,"GC enriched","k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Prevotellaceae; g__Prevotella; s__"," g__Prevotella","1018784 
+  g__Prevotella","1018784; g__Prevotella","*","* 1018784; g__Prevotella","* 1018784 
+  g__Prevotella",1.58888014827472
+"52","1117686","4.85385395275187",-1.58678587739552,"0.381339239245222","-4.16108733141708","3.16735925169394e-05",0.00144647545596504,"PRJNA375772_Inner_Mongolia",-2.3303973939237,-0.843174360867337,"Gastritis enriched","k__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Neisseriales; f__Neisseriaceae; g__; s__"," f__Neisseriaceae","1117686 
+  f__Neisseriaceae","1117686; f__Neisseriaceae",""," 1117686; f__Neisseriaceae"," 1117686 
+  f__Neisseriaceae",1.58678587739552
+"160","463233","1.90309795977722",-1.58532897075626,"0.230666111363731","-6.87283000256765","6.29405567889481e-12",3.64665680353247e-11,"PRJEB26931",-2.03512788791554,-1.13553005359699,"Gastritis enriched","k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__S24-7; g__; s__"," f__S24-7","463233 
+  f__S24-7","463233; f__S24-7",""," 463233; f__S24-7"," 463233 
+  f__S24-7",1.58532897075626
+"68","31235","9.81784735976043",1.56715206491307,"0.338763785407046","4.62609089997634","3.72631807744117e-06",1.22968496555559e-05,"PRJEB26931",0.906562683369333,2.22774144645681,"GC enriched","k__Bacteria; p__Fusobacteria; c__Fusobacteriia; o__Fusobacteriales; f__Leptotrichiaceae; g__Leptotrichia; s__"," g__Leptotrichia","31235 
+  g__Leptotrichia","31235; g__Leptotrichia","*","* 31235; g__Leptotrichia","* 31235 
+  g__Leptotrichia",1.56715206491307
+"29","1061162","3.34164484050604",1.56381473261324,"0.225859953509638","6.92382473436801","4.39609755027728e-12",4.51769173783814e-11,"PRJNA481413",1.12338782326945,2.00424164195703,"GC enriched","k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Actinomycetaceae; g__Actinomyces; s__"," g__Actinomyces","1061162 
+  g__Actinomyces","1061162; g__Actinomyces",""," 1061162; g__Actinomyces"," 1061162 
+  g__Actinomyces",1.56381473261324
+"207","960338","3.70316155008845",1.55429870136431,"0.277072066993809","5.60972716675565","2.02645835092473e-08",8.2623166740406e-08,"PRJEB26931",1.01400817072639,2.09458923200224,"GC enriched","k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Actinomycetaceae; g__Actinomyces; s__"," g__Actinomyces","960338 
+  g__Actinomyces","960338; g__Actinomyces",""," 960338; g__Actinomyces"," 960338 
+  g__Actinomyces",1.55429870136431
+"77","336228","",1.54054431585889,"","","",0.00369224551479342,"Combined",0.500559981435888,2.5805286502819,"GC enriched","k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Veillonellaceae; g__Dialister; s__"," g__Dialister","336228 
+  g__Dialister","336228; g__Dialister","*","* 336228; g__Dialister","* 336228 
+  g__Dialister",1.54054431585889
+"18","1050461","7.14663582460124",1.51383140565922,"0.361789083483647","4.18429265770715","2.86055398553607e-05",0.000738207480138341,"PRJNA375772_Xi_an",0.808342692866112,2.21932011845234,"GC enriched","k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Prevotellaceae; g__Prevotella; s__nigrescens"," s__nigrescens","1050461 
+  s__nigrescens","1050461; s__nigrescens","*","* 1050461; s__nigrescens","* 1050461 
+  s__nigrescens",1.51383140565922
+"121","4388247","2.58735094960021",1.49948519157215,"0.321966206170389","4.65727508923282","3.20422170326521e-06",1.07077788564812e-05,"PRJEB26931",0.871651089539892,2.12731929360441,"GC enriched","k__Bacteria; p__Fusobacteria; c__Fusobacteriia; o__Fusobacteriales; f__Leptotrichiaceae; g__Leptotrichia; s__"," g__Leptotrichia","4388247 
+  g__Leptotrichia","4388247; g__Leptotrichia","*","* 4388247; g__Leptotrichia","* 4388247 
+  g__Leptotrichia",1.49948519157215
+"40","1077325","",1.49859919041743,"","","",0.000723702804385932,"Combined",0.629717689239688,2.36748069159517,"GC enriched","k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pasteurellales; f__Pasteurellaceae; g__Actinobacillus; s__parahaemolyticus"," s__parahaemolyticus","1077325 
+  s__parahaemolyticus","1077325; s__parahaemolyticus",""," 1077325; s__parahaemolyticus"," 1077325 
+  s__parahaemolyticus",1.49859919041743
+"109","4318284","2.88759993743689",1.49471824333819,"0.22824451858163","6.54875855344413","5.80173423441934e-11",5.09497751859007e-10,"PRJNA481413",1.04964143210401,1.93979505457237,"GC enriched","k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Veillonellaceae; g__Dialister; s__"," g__Dialister","4318284 
+  g__Dialister","4318284; g__Dialister","*","* 4318284; g__Dialister","* 4318284 
+  g__Dialister",1.49471824333819
+"165","471157","22.5045332732277",1.45643919259857,"0.420239632260545","3.46573497783663","0.000528784232070892",0.011228761733473,"PRJNA375772_Inner_Mongolia",0.636971909690511,2.27590647550664,"ns","k__Bacteria; p__Actinobacteria; c__Coriobacteriia; o__Coriobacteriales; f__Coriobacteriaceae; g__Slackia; s__"," g__Slackia","471157 
+  g__Slackia","471157; g__Slackia","*","* 471157; g__Slackia","* 471157 
+  g__Slackia",1.45643919259857
+"131","4399326","5.77420046579821",1.45329455416909,"0.343760969589796","4.22763106557234","2.36164610696985e-05",7.22869069263814e-05,"PRJEB26931",0.782960663468989,2.12362844486919,"GC enriched","k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Veillonellaceae; g__Selenomonas; s__"," g__Selenomonas","4399326 
+  g__Selenomonas","4399326; g__Selenomonas","*","* 4399326; g__Selenomonas","* 4399326 
+  g__Selenomonas",1.45329455416909
+"15","1049979","",1.44961224330529,"","","",0.00385688731750195,"Combined",0.466378276336735,2.43284621027384,"GC enriched","k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__[Paraprevotellaceae]; g__[Prevotella]; s__"," g__[Prevotella]","1049979 
+  g__[Prevotella]","1049979; g__[Prevotella]","*","* 1049979; g__[Prevotella]","* 1049979 
+  g__[Prevotella]",1.44961224330529
+"196","73894","",1.42385639111649,"","","",7.85661442477132e-06,"Combined",0.799404999915059,2.04830778231792,"GC enriched","k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__"," o__Clostridiales","73894 
+  o__Clostridiales","73894; o__Clostridiales","*","* 73894; o__Clostridiales","* 73894 
+  o__Clostridiales",1.42385639111649
+"102","4302282","11.7202350076913",1.41102802989981,"0.375589064302702","3.75684002546626","0.00017207241681937",0.00518141836381347,"PRJNA375772_Inner_Mongolia",0.678629354509541,2.14342670529008,"GC enriched","k__Bacteria; p__Fusobacteria; c__Fusobacteriia; o__Fusobacteriales; f__Leptotrichiaceae; g__Leptotrichia; s__"," g__Leptotrichia","4302282 
+  g__Leptotrichia","4302282; g__Leptotrichia","*","* 4302282; g__Leptotrichia","* 4302282 
+  g__Leptotrichia",1.41102802989981
+"48","1102876","20.8891904334535",1.410549568706,"0.319729561950071","4.4116958097427","1.02564140642842e-05",0.000287899342155346,"PRJNA375772_Xi_an",0.787076922903361,2.03402221450864,"GC enriched","k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Micrococcaceae; g__Rothia; s__mucilaginosa"," s__mucilaginosa","1102876 
+  s__mucilaginosa","1102876; s__mucilaginosa","*","* 1102876; s__mucilaginosa","* 1102876 
+  s__mucilaginosa",1.410549568706
+"120","4342220","",1.4091496956285,"","","",0.00123927949755514,"Combined",0.553993490898899,2.26430590035809,"GC enriched","k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Prevotellaceae; g__Prevotella; s__"," g__Prevotella","4342220 
+  g__Prevotella","4342220; g__Prevotella","*","* 4342220; g__Prevotella","* 4342220 
+  g__Prevotella",1.4091496956285
+"113","4338372","4.21365735180596",1.39819571336429,"0.339509335691424","4.11828355328378","3.81704851053891e-05",0.000925345093463977,"PRJNA375772_Xi_an",0.736152508766016,2.06023891796257,"GC enriched","k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Prevotellaceae; g__Prevotella; s__"," g__Prevotella","4338372 
+  g__Prevotella","4338372; g__Prevotella","*","* 4338372; g__Prevotella","* 4338372 
+  g__Prevotella",1.39819571336429
+"152","4468411","2.59896719073001",1.36562809564784,"0.330719878674007","4.12925918188894","3.63933966087569e-05",0.00155653672052181,"PRJNA375772_Inner_Mongolia",0.720724332233525,2.01053185906215,"GC enriched","k__Bacteria; p__Fusobacteria; c__Fusobacteriia; o__Fusobacteriales; f__Fusobacteriaceae; g__Fusobacterium; s__"," g__Fusobacterium","4468411 
+  g__Fusobacterium","4468411; g__Fusobacterium","*","* 4468411; g__Fusobacterium","* 4468411 
+  g__Fusobacterium",1.36562809564784
+"188","689559","1.70098065780933",-1.36255713843415,"0.260975303075956","-5.22101946956102","1.77940830363466e-07",6.57012296726645e-07,"PRJEB26931",-1.87145897943227,-0.853655297436039,"Gastritis enriched","k__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Rhodocyclales; f__Rhodocyclaceae; g__; s__"," f__Rhodocyclaceae","689559 
+  f__Rhodocyclaceae","689559; f__Rhodocyclaceae",""," 689559; f__Rhodocyclaceae"," 689559 
+  f__Rhodocyclaceae",1.36255713843415
+"206","903373","",1.35034561100351,"","","",0.00430497043612798,"Combined",0.423299433763018,2.277391788244,"GC enriched","k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Veillonellaceae; g__Selenomonas; s__"," g__Selenomonas","903373 
+  g__Selenomonas","903373; g__Selenomonas","*","* 903373; g__Selenomonas","* 903373 
+  g__Selenomonas",1.35034561100351
+"51","1117686","1.72331985226373",-1.33489091386823,"0.221862608075805","-6.01674579346931","1.7795820561976e-09",8.13523225690334e-09,"PRJEB26931",-1.76752299961605,-0.902258828120412,"Gastritis enriched","k__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Neisseriales; f__Neisseriaceae; g__; s__"," f__Neisseriaceae","1117686 
+  f__Neisseriaceae","1117686; f__Neisseriaceae",""," 1117686; f__Neisseriaceae"," 1117686 
+  f__Neisseriaceae",1.33489091386823
+"201","851961","",1.33022345819848,"","","",0.000522926766070437,"Combined",0.578596532521618,2.08185038387534,"GC enriched","k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Prevotellaceae; g__Prevotella; s__"," g__Prevotella","851961 
+  g__Prevotella","851961; g__Prevotella","*","* 851961; g__Prevotella","* 851961 
+  g__Prevotella",1.33022345819848
+"103","4302282","6.87125052420422",1.32690439541174,"0.3457405028118","3.8378621672047","0.000124110108906206",0.00254584838781962,"PRJNA375772_Xi_an",0.652710414928729,2.00109837589475,"GC enriched","k__Bacteria; p__Fusobacteria; c__Fusobacteriia; o__Fusobacteriales; f__Leptotrichiaceae; g__Leptotrichia; s__"," g__Leptotrichia","4302282 
+  g__Leptotrichia","4302282; g__Leptotrichia","*","* 4302282; g__Leptotrichia","* 4302282 
+  g__Leptotrichia",1.32690439541174
+"154","4468411","",1.32337112491895,"","","",0.0021849198559164,"Combined",0.476808574410716,2.16993367542718,"GC enriched","k__Bacteria; p__Fusobacteria; c__Fusobacteriia; o__Fusobacteriales; f__Fusobacteriaceae; g__Fusobacterium; s__"," g__Fusobacterium","4468411 
+  g__Fusobacterium","4468411; g__Fusobacterium","*","* 4468411; g__Fusobacterium","* 4468411 
+  g__Fusobacterium",1.32337112491895
+"180","553611","8.82851100357859",1.31874547285524,"0.321566505756075","4.10100383357581","4.11361744368091e-05",0.00164427165820274,"PRJNA375772_Inner_Mongolia",0.691690786630896,1.94580015907959,"GC enriched","k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Bifidobacteriales; f__Bifidobacteriaceae; g__Bifidobacterium; s__"," g__Bifidobacterium","553611 
+  g__Bifidobacterium","553611; g__Bifidobacterium","*","* 553611; g__Bifidobacterium","* 553611 
+  g__Bifidobacterium",1.31874547285524
+"205","903373","2.38301123106388",1.28516876819079,"0.209654124522886","6.12994746044457","8.79080982106634e-10",6.84832442512104e-09,"PRJNA481413",0.876343225371164,1.69399431101042,"GC enriched","k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Veillonellaceae; g__Selenomonas; s__"," g__Selenomonas","903373 
+  g__Selenomonas","903373; g__Selenomonas","*","* 903373; g__Selenomonas","* 903373 
+  g__Selenomonas",1.28516876819079
+"46","1102876","20.9226833361428",1.26464756740754,"0.368006586191361","3.43648079915051","0.000589324123787823",0.00152905718604408,"PRJEB26931",0.547034724334386,1.9822604104807,"GC enriched","k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Micrococcaceae; g__Rothia; s__mucilaginosa"," s__mucilaginosa","1102876 
+  s__mucilaginosa","1102876; s__mucilaginosa","*","* 1102876; s__mucilaginosa","* 1102876 
+  s__mucilaginosa",1.26464756740754
+"1","1007646","4.61751119012647",-1.26345013218724,"0.251723008821232","-5.01920797031515","5.18849549129029e-07",1.83860779825589e-06,"PRJEB26931",-1.75430999938864,-0.772590264985835,"Gastritis enriched","k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pseudomonadales; f__Moraxellaceae; g__Acinetobacter; s__"," g__Acinetobacter","1007646 
+  g__Acinetobacter","1007646; g__Acinetobacter","*","* 1007646; g__Acinetobacter","* 1007646 
+  g__Acinetobacter",1.26345013218724
+"96","4298291","23.5446434540669",1.243562812017,"0.396707032792715","3.1347133002978","0.00172022142991128",0.00405480765621944,"PRJEB26931",0.469984098071203,2.01714152596279,"GC enriched","k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Prevotellaceae; g__Prevotella; s__melaninogenica"," s__melaninogenica","4298291 
+  s__melaninogenica","4298291; s__melaninogenica","*","* 4298291; s__melaninogenica","* 4298291 
+  s__melaninogenica",1.243562812017
+"36","1077325","13.6946026486939",1.23131377583075,"0.380149510881974","3.23902501669414","0.00119939053015764",0.0029049458712075,"PRJEB26931",0.490022229610904,1.9726053220506,"GC enriched","k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pasteurellales; f__Pasteurellaceae; g__Actinobacillus; s__parahaemolyticus"," s__parahaemolyticus","1077325 
+  s__parahaemolyticus","1077325; s__parahaemolyticus",""," 1077325; s__parahaemolyticus"," 1077325 
+  s__parahaemolyticus",1.23131377583075
+"127","4396516","47.4666168762456",1.223572621085,"0.358846577129262","3.40973747297094","0.000650254397598022",0.0131841435107193,"PRJNA375772_Inner_Mongolia",0.523821795682939,1.92332344648706,"ns","k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__"," f__Lachnospiraceae","4396516 
+  f__Lachnospiraceae","4396516; f__Lachnospiraceae",""," 4396516; f__Lachnospiraceae"," 4396516 
+  f__Lachnospiraceae",1.223572621085
+"182","553611","1.86259034946646",1.21676430871227,"0.209069495767373","5.81990358873843","5.88815814621511e-09",4.37535443787984e-08,"PRJNA481413",0.80907879196589,1.62444982545864,"GC enriched","k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Bifidobacteriales; f__Bifidobacteriaceae; g__Bifidobacterium; s__"," g__Bifidobacterium","553611 
+  g__Bifidobacterium","553611; g__Bifidobacterium","*","* 553611; g__Bifidobacterium","* 553611 
+  g__Bifidobacterium",1.21676430871227
+"161","463233","2.95950910205498",-1.21092607992238,"0.326447935101395","-3.70940033529777","0.000207750715490278",0.00605506772856039,"PRJNA375772_Inner_Mongolia",-1.8474995533701,-0.574352606474658,"Gastritis enriched","k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__S24-7; g__; s__"," f__S24-7","463233 
+  f__S24-7","463233; f__S24-7",""," 463233; f__S24-7"," 463233 
+  f__S24-7",1.21092607992238
+"146","4458501","20.9009353951116",1.20647142448894,"0.300731827572573","4.0117849654533","6.02613786197698e-05",0.000177754234140997,"PRJEB26931",0.620044360722425,1.79289848825546,"GC enriched","k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__[Tissierellaceae]; g__Parvimonas; s__"," g__Parvimonas","4458501 
+  g__Parvimonas","4458501; g__Parvimonas","*","* 4458501; g__Parvimonas","* 4458501 
+  g__Parvimonas",1.20647142448894
+"195","73894","1.85250056400625",1.20094874482858,"0.224967932282451","5.338310810097","9.38165322575367e-08",5.73587152916332e-07,"PRJNA481413",0.762261276877798,1.63963621277936,"GC enriched","k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__"," o__Clostridiales","73894 
+  o__Clostridiales","73894; o__Clostridiales","*","* 73894; o__Clostridiales","* 73894 
+  o__Clostridiales",1.20094874482858
+"141","4449323","3.38007836688951",1.1913807490249,"0.35366292693044","3.36868995392109","0.000755263345696671",0.00193060193825198,"PRJEB26931",0.501738041510544,1.88102345653926,"GC enriched","k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Bifidobacteriales; f__Bifidobacteriaceae; g__Alloscardovia; s__"," g__Alloscardovia","4449323 
+  g__Alloscardovia","4449323; g__Alloscardovia","*","* 4449323; g__Alloscardovia","* 4449323 
+  g__Alloscardovia",1.1913807490249
+"124","4388247","2.13344440954478",1.1905135926206,"0.21906436298044","5.43453794320209","5.49386062748114e-08",3.53804624409785e-07,"PRJNA481413",0.76333808480874,1.61768910043246,"GC enriched","k__Bacteria; p__Fusobacteria; c__Fusobacteriia; o__Fusobacteriales; f__Leptotrichiaceae; g__Leptotrichia; s__"," g__Leptotrichia","4388247 
+  g__Leptotrichia","4388247; g__Leptotrichia","*","* 4388247; g__Leptotrichia","* 4388247 
+  g__Leptotrichia",1.1905135926206
+"54","1117686","",-1.18383681061456,"","","",0.000140487163779292,"Combined",-1.79326397040323,-0.57440965082589,"Gastritis enriched","k__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Neisseriales; f__Neisseriaceae; g__; s__"," f__Neisseriaceae","1117686 
+  f__Neisseriaceae","1117686; f__Neisseriaceae",""," 1117686; f__Neisseriaceae"," 1117686 
+  f__Neisseriaceae",1.18383681061456
+"168","471157","",1.17924038565808,"","","",0.00634328304406497,"Combined",0.332462892857757,2.0260178784584,"GC enriched","k__Bacteria; p__Actinobacteria; c__Coriobacteriia; o__Coriobacteriales; f__Coriobacteriaceae; g__Slackia; s__"," g__Slackia","471157 
+  g__Slackia","471157; g__Slackia","*","* 471157; g__Slackia","* 471157 
+  g__Slackia",1.17924038565808
+"149","4458501","2.83265996166434",1.16772510364303,"0.231223269262444","5.05020583511268","4.41334251532359e-07",2.34246641197944e-06,"PRJNA481413",0.716839728581261,1.61861047870479,"GC enriched","k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__[Tissierellaceae]; g__Parvimonas; s__"," g__Parvimonas","4458501 
+  g__Parvimonas","4458501; g__Parvimonas","*","* 4458501; g__Parvimonas","* 4458501 
+  g__Parvimonas",1.16772510364303
+"83","36932","1.66719445808516",-1.15152495621466,"0.242001752566917","-4.75833312775803","1.95198165674307e-06",6.58559945533764e-06,"PRJEB26931",-1.62342837372015,-0.679621538709176,"Gastritis enriched","k__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Neisseriales; f__Neisseriaceae; g__Vogesella; s__"," g__Vogesella","36932 
+  g__Vogesella","36932; g__Vogesella",""," 36932; g__Vogesella"," 36932 
+  g__Vogesella",1.15152495621466
+"59","236367","1.71825400415712",-1.14315672579255,"0.221965107309586","-5.15016409402641","2.60258654912946e-07",9.50979721758032e-07,"PRJEB26931",-1.57598868504624,-0.710324766538854,"Gastritis enriched","k__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__SC-I-84; f__; g__; s__"," o__SC-I-84","236367 
+  o__SC-I-84","236367; o__SC-I-84",""," 236367; o__SC-I-84"," 236367 
+  o__SC-I-84",1.14315672579255
+"147","4458501","115.247876238054",1.14174822237596,"0.365983272551922","3.1196732419348","0.0018105175950977",0.0261125166550688,"PRJNA375772_Inner_Mongolia",0.428080840899715,1.85541560385221,"ns","k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__[Tissierellaceae]; g__Parvimonas; s__"," g__Parvimonas","4458501 
+  g__Parvimonas","4458501; g__Parvimonas","*","* 4458501; g__Parvimonas","* 4458501 
+  g__Parvimonas",1.14174822237596
+"98","4298291","6.35119519552368",1.13410841071685,"0.375616478933425","3.01932549375146","0.00253338191756033",0.0332246808860371,"PRJNA375772_Xi_an",0.40165627679667,1.86656054463703,"ns","k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Prevotellaceae; g__Prevotella; s__melaninogenica"," s__melaninogenica","4298291 
+  s__melaninogenica","4298291; s__melaninogenica","*","* 4298291; s__melaninogenica","* 4298291 
+  s__melaninogenica",1.13410841071685
+"56","1124146","4.69180950876419",-1.1244746058762,"0.383158634148739","-2.93474948926686","0.00333817071387231",0.0392676102504773,"PRJNA375772_Inner_Mongolia",-1.87163394246624,-0.377315269286159,"ns","k__Bacteria; p__Nitrospirae; c__Nitrospira; o__Nitrospirales; f__Nitrospiraceae; g__; s__"," f__Nitrospiraceae","1124146 
+  f__Nitrospiraceae","1124146; f__Nitrospiraceae",""," 1124146; f__Nitrospiraceae"," 1124146 
+  f__Nitrospiraceae",1.1244746058762
+"22","1052622","19.3399772941543",1.1152445102795,"0.335702665857602","3.32211991057754","0.000893362928475194",0.0160232658581641,"PRJNA375772_Inner_Mongolia",0.460624311857176,1.76986470870183,"ns","k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Micrococcaceae; g__Rothia; s__dentocariosa"," s__dentocariosa","1052622 
+  s__dentocariosa","1052622; s__dentocariosa","*","* 1052622; s__dentocariosa","* 1052622 
+  s__dentocariosa",1.1152445102795
+"116","4342220","6.24586688551574",1.11388436483077,"0.360774457696665","3.08748122564517","0.00201860522232471",0.00471603343976747,"PRJEB26931",0.410374172322272,1.81739455733927,"GC enriched","k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Prevotellaceae; g__Prevotella; s__"," g__Prevotella","4342220 
+  g__Prevotella","4342220; g__Prevotella","*","* 4342220; g__Prevotella","* 4342220 
+  g__Prevotella",1.11388436483077
+"203","903373","3.31505678154516",1.10954691167763,"0.295275611323544","3.75766527653331","0.000171506086098209",0.00518141836381347,"PRJNA375772_Inner_Mongolia",0.533759469596715,1.68533435375854,"GC enriched","k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Veillonellaceae; g__Selenomonas; s__"," g__Selenomonas","903373 
+  g__Selenomonas","903373; g__Selenomonas","*","* 903373; g__Selenomonas","* 903373 
+  g__Selenomonas",1.10954691167763
+"74","336228","13.3279892590122",1.10615415325931,"0.350165696609524","3.1589449336975","0.00158341405497301",0.023733427263926,"PRJNA375772_Inner_Mongolia",0.423331044870739,1.78897726164788,"ns","k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Veillonellaceae; g__Dialister; s__"," g__Dialister","336228 
+  g__Dialister","336228; g__Dialister","*","* 336228; g__Dialister","* 336228 
+  g__Dialister",1.10615415325931
+"114","4338372","3.06480351427028",1.10330274306241,"0.225838693665419","4.88535744320659","1.03241382633877e-06",5.19433206376693e-06,"PRJNA481413",0.662917290414842,1.54368819570998,"GC enriched","k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Prevotellaceae; g__Prevotella; s__"," g__Prevotella","4338372 
+  g__Prevotella","4338372; g__Prevotella","*","* 4338372; g__Prevotella","* 4338372 
+  g__Prevotella",1.10330274306241
+"55","1124146","1.56890250473225",-1.0938891434457,"0.231724403494042","-4.72064714355312","2.35095466268262e-06",7.90639529870332e-06,"PRJEB26931",-1.54575173025908,-0.642026556632318,"Gastritis enriched","k__Bacteria; p__Nitrospirae; c__Nitrospira; o__Nitrospirales; f__Nitrospiraceae; g__; s__"," f__Nitrospiraceae","1124146 
+  f__Nitrospiraceae","1124146; f__Nitrospiraceae",""," 1124146; f__Nitrospiraceae"," 1124146 
+  f__Nitrospiraceae",1.0938891434457
+"170","509149","288.964139563171",1.08595472180252,"0.552401950411943","1.96587778336534","0.049312729957701",0.176893613361086,"PRJNA375772_Inner_Mongolia",0.00877091849923439,2.16313852510581,"ns","k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Lactobacillaceae; g__Lactobacillus; s__"," g__Lactobacillus","509149 
+  g__Lactobacillus","509149; g__Lactobacillus","*","* 509149; g__Lactobacillus","* 509149 
+  g__Lactobacillus",1.08595472180252
+"185","555423","2.86962649046143",-1.08510777730575,"0.335106362008374","-3.23809960157856","0.00120328792554758",0.0193494230786329,"PRJNA375772_Inner_Mongolia",-1.73856518322208,-0.431650371389426,"ns","k__Bacteria; p__Proteobacteria; c__Epsilonproteobacteria; o__Campylobacterales; f__Campylobacteraceae; g__Arcobacter; s__"," g__Arcobacter","555423 
+  g__Arcobacter","555423; g__Arcobacter",""," 555423; g__Arcobacter"," 555423 
+  g__Arcobacter",1.08510777730575
+"184","555423","1.56400693484874",-1.08039633278944,"0.225208871514975","-4.79730805239438","1.60812188075652e-06",5.47798937444801e-06,"PRJEB26931",-1.51955363224364,-0.64123903333524,"Gastritis enriched","k__Bacteria; p__Proteobacteria; c__Epsilonproteobacteria; o__Campylobacterales; f__Campylobacteraceae; g__Arcobacter; s__"," g__Arcobacter","555423 
+  g__Arcobacter","555423; g__Arcobacter",""," 555423; g__Arcobacter"," 555423 
+  g__Arcobacter",1.08039633278944
+"50","1102876","",1.07886152234593,"","","",0.00482851102865173,"Combined",0.328564598459478,1.82915844623238,"GC enriched","k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Micrococcaceae; g__Rothia; s__mucilaginosa"," s__mucilaginosa","1102876 
+  s__mucilaginosa","1102876; s__mucilaginosa","*","* 1102876; s__mucilaginosa","* 1102876 
+  s__mucilaginosa",1.07886152234593
+"106","4318284","15.370184507905",1.07293773833747,"0.333071714155769","3.22134150916124","0.00127592010867795",0.0030691836782777,"PRJEB26931",0.423447895733717,1.72242758094122,"GC enriched","k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Veillonellaceae; g__Dialister; s__"," g__Dialister","4318284 
+  g__Dialister","4318284; g__Dialister","*","* 4318284; g__Dialister","* 4318284 
+  g__Dialister",1.07293773833747
+"33","1069168","2.02361477187252",1.07179831388345,"0.281677664634605","3.80505254214527","0.000141774092467608",0.00283548184935215,"PRJNA375772_Xi_an",0.522526867845968,1.62106975992093,"GC enriched","k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Prevotellaceae; g__Prevotella; s__"," g__Prevotella","1069168 
+  g__Prevotella","1069168; g__Prevotella",""," 1069168; g__Prevotella"," 1069168 
+  g__Prevotella",1.07179831388345
+"21","1052622","8.99383621955283",1.07169936213,"0.329060979263976","3.25684122294632","0.00112659431635829",0.00274753717800081,"PRJEB26931",0.430030452565249,1.71336827169476,"GC enriched","k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Micrococcaceae; g__Rothia; s__dentocariosa"," s__dentocariosa","1052622 
+  s__dentocariosa","1052622; s__dentocariosa","*","* 1052622; s__dentocariosa","* 1052622 
+  s__dentocariosa",1.07169936213
+"189","689559","5.24587182238463",-1.04190113274381,"0.400207092397495","-2.60340496841813","0.00923028530061792",0.067508413627172,"PRJNA375772_Inner_Mongolia",-1.82230496291893,-0.261497302568699,"ns","k__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Rhodocyclales; f__Rhodocyclaceae; g__; s__"," f__Rhodocyclaceae","689559 
+  f__Rhodocyclaceae","689559; f__Rhodocyclaceae",""," 689559; f__Rhodocyclaceae"," 689559 
+  f__Rhodocyclaceae",1.04190113274381
+"31","1069168","2.29104209232459",1.03498324851355,"0.312614620610592","3.31073206522471","0.000930522592616533",0.00231207495953661,"PRJEB26931",0.425384738322892,1.6445817587042,"GC enriched","k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Prevotellaceae; g__Prevotella; s__"," g__Prevotella","1069168 
+  g__Prevotella","1069168; g__Prevotella",""," 1069168; g__Prevotella"," 1069168 
+  g__Prevotella",1.03498324851355
+"79","359079","35.0079818106182",1.02199158125948,"0.421449905794938","2.42494200901955","0.0153108322653839",0.0907620946579325,"PRJNA375772_Inner_Mongolia",0.200164264959346,1.84381889755961,"ns","k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Streptococcus; s__anginosus"," s__anginosus","359079 
+  s__anginosus","359079; s__anginosus","*","* 359079; s__anginosus","* 359079 
+  s__anginosus",1.02199158125948
+"164","471157","1.87371006502088",1.01701852100013,"0.302348669739542","3.36372745372501","0.000768974417866344",0.00195671562714906,"PRJEB26931",0.427438615008026,1.60659842699224,"GC enriched","k__Bacteria; p__Actinobacteria; c__Coriobacteriia; o__Coriobacteriales; f__Coriobacteriaceae; g__Slackia; s__"," g__Slackia","471157 
+  g__Slackia","471157; g__Slackia","*","* 471157; g__Slackia","* 471157 
+  g__Slackia",1.01701852100013
+"115","4338372","",1.0131761822322,"","","",0.0014644283710688,"Combined",0.389036514980491,1.63731584948391,"GC enriched","k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Prevotellaceae; g__Prevotella; s__"," g__Prevotella","4338372 
+  g__Prevotella","4338372; g__Prevotella","*","* 4338372; g__Prevotella","* 4338372 
+  g__Prevotella",1.0131761822322
+"72","31235","",0.994313043510736,"","","",0.000185871333993131,"Combined",0.472887921430172,1.5157381655913,"GC enriched","k__Bacteria; p__Fusobacteria; c__Fusobacteriia; o__Fusobacteriales; f__Leptotrichiaceae; g__Leptotrichia; s__"," g__Leptotrichia","31235 
+  g__Leptotrichia","31235; g__Leptotrichia","*","* 31235; g__Leptotrichia","* 31235 
+  g__Leptotrichia",0.994313043510736
+"78","359079","10.2758699107571",0.989991430700211,"0.368291778685599","2.68806280236122","0.00718678785501496",0.0147650738811202,"PRJEB26931",0.271822462263293,1.70816039913713,"ns","k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Streptococcus; s__anginosus"," s__anginosus","359079 
+  s__anginosus","359079; s__anginosus","*","* 359079; s__anginosus","* 359079 
+  s__anginosus",0.989991430700211
+"85","36932","1.85666707585362",-0.974836618414582,"0.316375540608852","-3.08126417275668","0.00206123683865907",0.0279489740835128,"PRJNA375772_Xi_an",-1.59176892260184,-0.35790431422732,"ns","k__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Neisseriales; f__Neisseriaceae; g__Vogesella; s__"," g__Vogesella","36932 
+  g__Vogesella","36932; g__Vogesella",""," 36932; g__Vogesella"," 36932 
+  g__Vogesella",0.974836618414582
+"210","960338","1.783275418451",0.973689182879572,"0.193878548359308","5.02216047685208","5.10934646077727e-07",2.68240689190807e-06,"PRJNA481413",0.595626013578921,1.35175235218022,"GC enriched","k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Actinomycetaceae; g__Actinomyces; s__"," g__Actinomyces","960338 
+  g__Actinomyces","960338; g__Actinomyces",""," 960338; g__Actinomyces"," 960338 
+  g__Actinomyces",0.973689182879572
+"71","31235","3.76642875928513",0.972594878549205,"0.239723592477346","4.05715127367414","4.96749091352978e-05",0.000181765008426885,"PRJNA481413",0.50513387321838,1.44005588388003,"GC enriched","k__Bacteria; p__Fusobacteria; c__Fusobacteriia; o__Fusobacteriales; f__Leptotrichiaceae; g__Leptotrichia; s__"," g__Leptotrichia","31235 
+  g__Leptotrichia","31235; g__Leptotrichia","*","* 31235; g__Leptotrichia","* 31235 
+  g__Leptotrichia",0.972594878549205
+"17","1050461","24.0614148233422",0.970856218185007,"0.459335206811474","2.1136115929896","0.0345484548752156",0.152953444210211,"PRJNA375772_Inner_Mongolia",0.0751525649026323,1.86655987146738,"ns","k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Prevotellaceae; g__Prevotella; s__nigrescens"," s__nigrescens","1050461 
+  s__nigrescens","1050461; s__nigrescens","*","* 1050461; s__nigrescens","* 1050461 
+  s__nigrescens",0.970856218185007
+"43","1087878","40.3418159564644",0.964676156335214,"0.23329867554563","4.13494056097432","3.55046517911437e-05",0.000873960659474306,"PRJNA375772_Xi_an",0.509743739021235,1.41960857364919,"GC enriched","k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Actinomycetaceae; g__Actinomyces; s__"," g__Actinomyces","1087878 
+  g__Actinomyces","1087878; g__Actinomyces","*","* 1087878; g__Actinomyces","* 1087878 
+  g__Actinomyces",0.964676156335214
+"3","1007646","96.6120198748414",-0.959748592757035,"0.337182119494119","-2.84638044922716","0.00442193295822394",0.0520227406849875,"PRJNA375772_Xi_an",-1.61725372577057,-0.302243459743503,"ns","k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pseudomonadales; f__Moraxellaceae; g__Acinetobacter; s__"," g__Acinetobacter","1007646 
+  g__Acinetobacter","1007646; g__Acinetobacter","*","* 1007646; g__Acinetobacter","* 1007646 
+  g__Acinetobacter",0.959748592757035
+"20","1050461","",0.95948367905777,"","","",0.00105173010019848,"Combined",0.385498497117415,1.53346886099813,"GC enriched","k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Prevotellaceae; g__Prevotella; s__nigrescens"," s__nigrescens","1050461 
+  s__nigrescens","1050461; s__nigrescens","*","* 1050461; s__nigrescens","* 1050461 
+  s__nigrescens",0.95948367905777
+"100","4298291","",0.958457769950565,"","","",0.00143335217688325,"Combined",0.369175613823676,1.54773992607746,"GC enriched","k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Prevotellaceae; g__Prevotella; s__melaninogenica"," s__melaninogenica","4298291 
+  s__melaninogenica","4298291; s__melaninogenica","*","* 4298291; s__melaninogenica","* 4298291 
+  s__melaninogenica",0.958457769950565
+"24","1052622","1.76445155930243",0.955068136756763,"0.200972348353458","4.75223653692422","2.01178822507369e-06",9.43391954087954e-06,"PRJNA481413",0.56317205746752,1.346964216046,"GC enriched","k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Micrococcaceae; g__Rothia; s__dentocariosa"," s__dentocariosa","1052622 
+  s__dentocariosa","1052622; s__dentocariosa","*","* 1052622; s__dentocariosa","* 1052622 
+  s__dentocariosa",0.955068136756763
+"45","1087878","",0.954746478248384,"","","",0.00736349170639293,"Combined",0.256496773604206,1.65299618289256,"GC enriched","k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Actinomycetaceae; g__Actinomyces; s__"," g__Actinomyces","1087878 
+  g__Actinomyces","1087878; g__Actinomyces","*","* 1087878; g__Actinomyces","* 1087878 
+  g__Actinomyces",0.954746478248384
+"176","529453","3.20984770379985",0.946073067576444,"0.278388227991947","3.39839466058102","0.0006778256062643",0.0112970934377383,"PRJNA375772_Xi_an",0.403216022992148,1.48893011216074,"ns","k__Bacteria; p__Fusobacteria; c__Fusobacteriia; o__Fusobacteriales; f__Fusobacteriaceae; g__Fusobacterium; s__"," g__Fusobacterium","529453 
+  g__Fusobacterium","529453; g__Fusobacterium","*","* 529453; g__Fusobacterium","* 529453 
+  g__Fusobacterium",0.946073067576444
+"60","236367","3.06995314102608",-0.922360025518161,"0.34155532560929","-2.70047033777849","0.00692415110944274",0.0597574960902066,"PRJNA375772_Inner_Mongolia",-1.58839291045628,-0.256327140580046,"ns","k__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__SC-I-84; f__; g__; s__"," o__SC-I-84","236367 
+  o__SC-I-84","236367; o__SC-I-84",""," 236367; o__SC-I-84"," 236367 
+  o__SC-I-84",0.922360025518161
+"191","689559","",-0.92164694256402,"","","",0.00425041614871035,"Combined",-1.55348480352177,-0.289809081606268,"Gastritis enriched","k__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Rhodocyclales; f__Rhodocyclaceae; g__; s__"," f__Rhodocyclaceae","689559 
+  f__Rhodocyclaceae","689559; f__Rhodocyclaceae",""," 689559; f__Rhodocyclaceae"," 689559 
+  f__Rhodocyclaceae",0.92164694256402
+"137","4432270","6.73114897090066",0.921397308054793,"0.388891732796456","2.3692900371761","0.0178222711373187",0.0996027379131066,"PRJNA375772_Inner_Mongolia",0.163058429101704,1.67973618700788,"ns","k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Lactobacillaceae; g__Lactobacillus; s__mucosae"," s__mucosae","4432270 
+  s__mucosae","4432270; s__mucosae",""," 4432270; s__mucosae"," 4432270 
+  s__mucosae",0.921397308054793
+"30","1061162","",0.911014330987815,"","","",0.000969980703111315,"Combined",0.369788076479256,1.45224058549638,"GC enriched","k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Actinomycetaceae; g__Actinomyces; s__"," g__Actinomyces","1061162 
+  g__Actinomyces","1061162; g__Actinomyces",""," 1061162; g__Actinomyces"," 1061162 
+  g__Actinomyces",0.911014330987815
+"58","1124146","",-0.906479311071895,"","","",0.00326523254238373,"Combined",-1.51045941241164,-0.302499209732153,"Gastritis enriched","k__Bacteria; p__Nitrospirae; c__Nitrospira; o__Nitrospirales; f__Nitrospiraceae; g__; s__"," f__Nitrospiraceae","1124146 
+  f__Nitrospiraceae","1124146; f__Nitrospiraceae",""," 1124146; f__Nitrospiraceae"," 1124146 
+  f__Nitrospiraceae",0.906479311071895
+"90","3756908","",0.901440777069652,"","","",0.00569311170954152,"Combined",0.26244550534398,1.54043604879532,"GC enriched","k__Bacteria; p__Actinobacteria; c__Coriobacteriia; o__Coriobacteriales; f__Coriobacteriaceae; g__Olsenella; s__uli"," s__uli","3756908 
+  s__uli","3756908; s__uli","*","* 3756908; s__uli","* 3756908 
+  s__uli",0.901440777069652
+"89","3756908","1.84094469514811",0.896105254938333,"0.30609356261624","2.92755341627949","0.00341640369761198",0.0420480455090705,"PRJNA375772_Xi_an",0.299222807836666,1.49298770204,"ns","k__Bacteria; p__Actinobacteria; c__Coriobacteriia; o__Coriobacteriales; f__Coriobacteriaceae; g__Olsenella; s__uli"," s__uli","3756908 
+  s__uli","3756908; s__uli","*","* 3756908; s__uli","* 3756908 
+  s__uli",0.896105254938333
+"187","555423","",-0.887533693625717,"","","",0.00276756557349627,"Combined",-1.46884317703135,-0.306224210220086,"Gastritis enriched","k__Bacteria; p__Proteobacteria; c__Epsilonproteobacteria; o__Campylobacterales; f__Campylobacteraceae; g__Arcobacter; s__"," g__Arcobacter","555423 
+  g__Arcobacter","555423; g__Arcobacter",""," 555423; g__Arcobacter"," 555423 
+  g__Arcobacter",0.887533693625717
+"62","236367","",-0.884337382449063,"","","",0.00308964877149799,"Combined",-1.47016363549984,-0.298511129398287,"Gastritis enriched","k__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__SC-I-84; f__; g__; s__"," o__SC-I-84","236367 
+  o__SC-I-84","236367; o__SC-I-84",""," 236367; o__SC-I-84"," 236367 
+  o__SC-I-84",0.884337382449063
+"125","4388247","",0.883047961083032,"","","",0.000792256933637212,"Combined",0.367253155542935,1.39884276662313,"GC enriched","k__Bacteria; p__Fusobacteria; c__Fusobacteriia; o__Fusobacteriales; f__Leptotrichiaceae; g__Leptotrichia; s__"," g__Leptotrichia","4388247 
+  g__Leptotrichia","4388247; g__Leptotrichia","*","* 4388247; g__Leptotrichia","* 4388247 
+  g__Leptotrichia",0.883047961083032
+"42","1087878","274.123431871643",0.874461058944709,"0.35437505381318","2.46761460643251","0.0136016672764136",0.0857150113500118,"PRJNA375772_Inner_Mongolia",0.183429704009009,1.56549241388041,"ns","k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Actinomycetaceae; g__Actinomyces; s__"," g__Actinomyces","1087878 
+  g__Actinomyces","1087878; g__Actinomyces","*","* 1087878; g__Actinomyces","* 1087878 
+  g__Actinomyces",0.874461058944709
+"158","453529","2.54897091942577",0.860993157377758,"0.221334599134248","3.89000707862909","0.000100241297910871",0.000345832477792504,"PRJNA481413",0.429390689065974,1.29259562568954,"GC enriched","k__Bacteria; p__Spirochaetes; c__Spirochaetes; o__Spirochaetales; f__Spirochaetaceae; g__Treponema; s__amylovorum"," s__amylovorum","453529 
+  s__amylovorum","453529; s__amylovorum","*","* 453529; s__amylovorum","* 453529 
+  s__amylovorum",0.860993157377758
+"64","2418563","1.91324861629858",0.848955580200417,"0.264501530660447","3.20964335473076","0.00132899757507602",0.0211280409946745,"PRJNA375772_Inner_Mongolia",0.333177595412546,1.36473356498829,"ns","k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__"," f__Lachnospiraceae","2418563 
+  f__Lachnospiraceae","2418563; f__Lachnospiraceae",""," 2418563; f__Lachnospiraceae"," 2418563 
+  f__Lachnospiraceae",0.848955580200417
+"211","960338","",0.843316675968814,"","","",0.00716053791529639,"Combined",0.228703251153474,1.45793010078415,"GC enriched","k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Actinomycetaceae; g__Actinomyces; s__"," g__Actinomyces","960338 
+  g__Actinomyces","960338; g__Actinomyces",""," 960338; g__Actinomyces"," 960338 
+  g__Actinomyces",0.843316675968814
+"143","4449323","1.67728674710907",0.826209543924213,"0.260089034642716","3.17664120311406","0.00148991239412529",0.0207374717575337,"PRJNA375772_Xi_an",0.319035926370917,1.33338316147751,"ns","k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Bifidobacteriales; f__Bifidobacteriaceae; g__Alloscardovia; s__"," g__Alloscardovia","4449323 
+  g__Alloscardovia","4449323; g__Alloscardovia","*","* 4449323; g__Alloscardovia","* 4449323 
+  g__Alloscardovia",0.826209543924213
+"99","4298291","5.5310454193704",0.812355261913274,"0.279154135825011","2.91005991909252","0.00361359470578357",0.00835103465499265,"PRJNA481413",0.268004697054503,1.35670582677205,"GC enriched","k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Prevotellaceae; g__Prevotella; s__melaninogenica"," s__melaninogenica","4298291 
+  s__melaninogenica","4298291; s__melaninogenica","*","* 4298291; s__melaninogenica","* 4298291 
+  s__melaninogenica",0.812355261913274
+"7","1018784","6.25637776248035",0.796418921297028,"0.404735008385662","1.96775397431927","0.0490963522278704",0.176570171636994,"PRJNA375772_Inner_Mongolia",0.00718565494498757,1.58565218764907,"ns","k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Prevotellaceae; g__Prevotella; s__"," g__Prevotella","1018784 
+  g__Prevotella","1018784; g__Prevotella","*","* 1018784; g__Prevotella","* 1018784 
+  g__Prevotella",0.796418921297028
+"86","36932","",-0.79513898849267,"","","",0.00859181055913051,"Combined",-1.38818056777488,-0.202097409210457,"Gastritis enriched","k__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Neisseriales; f__Neisseriaceae; g__Vogesella; s__"," g__Vogesella","36932 
+  g__Vogesella","36932; g__Vogesella",""," 36932; g__Vogesella"," 36932 
+  g__Vogesella",0.79513898849267
+"5","1007646","",-0.792600135380905,"","","",0.00227132966201979,"Combined",-1.30155837989795,-0.283641890863864,"Gastritis enriched","k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pseudomonadales; f__Moraxellaceae; g__Acinetobacter; s__"," g__Acinetobacter","1007646 
+  g__Acinetobacter","1007646; g__Acinetobacter","*","* 1007646; g__Acinetobacter","* 1007646 
+  g__Acinetobacter",0.792600135380905
+"208","960338","35.8841426740402",0.783927723190007,"0.353101074181474","2.22012273683176","0.0264104371860241",0.127824121388269,"PRJNA375772_Inner_Mongolia",0.0953806285361327,1.47247481784388,"ns","k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Actinomycetaceae; g__Actinomyces; s__"," g__Actinomyces","960338 
+  g__Actinomyces","960338; g__Actinomyces",""," 960338; g__Actinomyces"," 960338 
+  g__Actinomyces",0.783927723190007
+"35","1069168","",0.776551603667793,"","","",0.00261594741495396,"Combined",0.270831635856257,1.28227157147933,"GC enriched","k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Prevotellaceae; g__Prevotella; s__"," g__Prevotella","1069168 
+  g__Prevotella","1069168; g__Prevotella",""," 1069168; g__Prevotella"," 1069168 
+  g__Prevotella",0.776551603667793
+"27","1061162","32.228805354086",0.775994051118224,"0.331290134131607","2.34233975349823","0.0191632612678299",0.104316741298421,"PRJNA375772_Inner_Mongolia",0.12997828956159,1.42200981267486,"ns","k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Actinomycetaceae; g__Actinomyces; s__"," g__Actinomyces","1061162 
+  g__Actinomyces","1061162; g__Actinomyces",""," 1061162; g__Actinomyces"," 1061162 
+  g__Actinomyces",0.775994051118224
+"25","1052622","",0.768861273172672,"","","",0.00492841706487654,"Combined",0.232903153250753,1.30481939309459,"GC enriched","k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Micrococcaceae; g__Rothia; s__dentocariosa"," s__dentocariosa","1052622 
+  s__dentocariosa","1052622; s__dentocariosa","*","* 1052622; s__dentocariosa","* 1052622 
+  s__dentocariosa",0.768861273172672
+"69","31235","4.33088782825649",0.767310041977816,"0.324193522111192","2.36682718698693","0.0179413080443909",0.0996027379131066,"PRJNA375772_Inner_Mongolia",0.135132673860992,1.39948741009464,"ns","k__Bacteria; p__Fusobacteria; c__Fusobacteriia; o__Fusobacteriales; f__Leptotrichiaceae; g__Leptotrichia; s__"," g__Leptotrichia","31235 
+  g__Leptotrichia","31235; g__Leptotrichia","*","* 31235; g__Leptotrichia","* 31235 
+  g__Leptotrichia",0.767310041977816
+"70","31235","2.29505996932694",0.764742070657359,"0.255032422005136","2.9986072541081","0.00271216676246738",0.0349957001608694,"PRJNA375772_Xi_an",0.267428847747343,1.26205529356737,"ns","k__Bacteria; p__Fusobacteria; c__Fusobacteriia; o__Fusobacteriales; f__Leptotrichiaceae; g__Leptotrichia; s__"," g__Leptotrichia","31235 
+  g__Leptotrichia","31235; g__Leptotrichia","*","* 31235; g__Leptotrichia","* 31235 
+  g__Leptotrichia",0.764742070657359
+"65","2418563","1.85964277418358",0.748462660843817,"0.278302812807551","2.68938230732647","0.00715843843619729",0.0722384942601673,"PRJNA375772_Xi_an",0.205772175869093,1.29115314581854,"ns","k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__"," f__Lachnospiraceae","2418563 
+  f__Lachnospiraceae","2418563; f__Lachnospiraceae",""," 2418563; f__Lachnospiraceae"," 2418563 
+  f__Lachnospiraceae",0.748462660843817
+"19","1050461","9.92495020257258",0.74049463950528,"0.260780881376805","2.83952809575534","0.00451803162577485",0.0102451139683064,"PRJNA481413",0.231971920820509,1.24901735819005,"ns","k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Prevotellaceae; g__Prevotella; s__nigrescens"," s__nigrescens","1050461 
+  s__nigrescens","1050461; s__nigrescens","*","* 1050461; s__nigrescens","* 1050461 
+  s__nigrescens",0.74049463950528
+"155","453529","3.61238426253326",0.729404252573377,"0.332476537208727","2.19385180890362","0.0282460648356403",0.0502152263744716,"PRJEB26931",0.0810750050163593,1.37773350013039,"ns","k__Bacteria; p__Spirochaetes; c__Spirochaetes; o__Spirochaetales; f__Spirochaetaceae; g__Treponema; s__amylovorum"," s__amylovorum","453529 
+  s__amylovorum","453529; s__amylovorum","*","* 453529; s__amylovorum","* 453529 
+  s__amylovorum",0.729404252573377
+"16","1050461","16.0941602320897",0.710796108264491,"0.346721137742938","2.05005126855427","0.0403594280818051",0.0685201865826144,"PRJEB26931",0.034689889665762,1.38690232686322,"ns","k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Prevotellaceae; g__Prevotella; s__nigrescens"," s__nigrescens","1050461 
+  s__nigrescens","1050461; s__nigrescens","*","* 1050461; s__nigrescens","* 1050461 
+  s__nigrescens",0.710796108264491
+"126","4396516","10.744678073199",0.704131608564684,"0.291178417677042","2.41821359626202","0.0155969183739156",0.0297836271299364,"PRJEB26931",0.136333694094452,1.27192952303492,"ns","k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__"," f__Lachnospiraceae","4396516 
+  f__Lachnospiraceae","4396516; f__Lachnospiraceae",""," 4396516; f__Lachnospiraceae"," 4396516 
+  f__Lachnospiraceae",0.704131608564684
+"145","4449323","",0.684039114633972,"","","",0.00739725433203295,"Combined",0.183483979158954,1.18459425010899,"GC enriched","k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Bifidobacteriales; f__Bifidobacteriaceae; g__Alloscardovia; s__"," g__Alloscardovia","4449323 
+  g__Alloscardovia","4449323; g__Alloscardovia","*","* 4449323; g__Alloscardovia","* 4449323 
+  g__Alloscardovia",0.684039114633972
+"34","1069168","2.31606860458081",0.680560486631228,"0.21137731849198","3.219647649457","0.00128348245991929",0.00338755206634436,"PRJNA481413",0.268374715571866,1.09274625769059,"GC enriched","k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Prevotellaceae; g__Prevotella; s__"," g__Prevotella","1069168 
+  g__Prevotella","1069168; g__Prevotella",""," 1069168; g__Prevotella"," 1069168 
+  g__Prevotella",0.680560486631228
+"159","453529","",0.678947777709834,"","","",0.0087324695917299,"Combined",0.171497893020738,1.18639766239893,"GC enriched","k__Bacteria; p__Spirochaetes; c__Spirochaetes; o__Spirochaetales; f__Spirochaetaceae; g__Treponema; s__amylovorum"," s__amylovorum","453529 
+  s__amylovorum","453529; s__amylovorum","*","* 453529; s__amylovorum","* 453529 
+  s__amylovorum",0.678947777709834
+"67","2418563","",0.676647681759784,"","","",0.00723959289246183,"Combined",0.182830107450688,1.17046525606888,"GC enriched","k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__"," f__Lachnospiraceae","2418563 
+  f__Lachnospiraceae","2418563; f__Lachnospiraceae",""," 2418563; f__Lachnospiraceae"," 2418563 
+  f__Lachnospiraceae",0.676647681759784
+"97","4298291","32.1418296499055",0.669862483627739,"0.435328861340367","1.53875045538044","0.123865229427786",0.307247262357221,"PRJNA375772_Inner_Mongolia",-0.179028795985976,1.51875376324145,"ns","k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Prevotellaceae; g__Prevotella; s__melaninogenica"," s__melaninogenica","4298291 
+  s__melaninogenica","4298291; s__melaninogenica","*","* 4298291; s__melaninogenica","* 4298291 
+  s__melaninogenica",0.669862483627739
+"193","73894","2.48461810952339",0.651615499474463,"0.313997459832833","2.07522538501226","0.0379656509990917",0.157552539046528,"PRJNA375772_Inner_Mongolia",0.0393204528004389,1.26391054614849,"ns","k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__"," o__Clostridiales","73894 
+  o__Clostridiales","73894; o__Clostridiales","*","* 73894; o__Clostridiales","* 73894 
+  o__Clostridiales",0.651615499474463
+"63","2418563","1.89200027921214",0.649807829147542,"0.303925396621847","2.13805044385959","0.0325126493522323",0.0565623685600614,"PRJEB26931",0.0571533057349396,1.24246235256014,"ns","k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__"," f__Lachnospiraceae","2418563 
+  f__Lachnospiraceae","2418563; f__Lachnospiraceae",""," 2418563; f__Lachnospiraceae"," 2418563 
+  f__Lachnospiraceae",0.649807829147542
+"53","1117686","12.4955471348966",-0.643147075513896,"0.311185918494311","-2.06676149944637","0.0387566329739126",0.223059758123238,"PRJNA375772_Xi_an",-1.2499596165778,-0.03633453444999,"ns","k__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Neisseriales; f__Neisseriaceae; g__; s__"," f__Neisseriaceae","1117686 
+  f__Neisseriaceae","1117686; f__Neisseriaceae",""," 1117686; f__Neisseriaceae"," 1117686 
+  f__Neisseriaceae",0.643147075513896
+"28","1061162","16.908187378063",0.626956052541568,"0.323001748071336","1.94102990551959","0.0522546500945994",0.266265732966112,"PRJNA375772_Xi_an",-0.00289735619753673,1.25680946128067,"ns","k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Actinomycetaceae; g__Actinomyces; s__"," g__Actinomyces","1061162 
+  g__Actinomyces","1061162; g__Actinomyces",""," 1061162; g__Actinomyces"," 1061162 
+  g__Actinomyces",0.626956052541568
+"157","453529","1.5183697556951",0.600552121171126,"0.26398755383908","2.27492589115473","0.0229103758790266",NA,"PRJNA375772_Xi_an",0.0857763911849213,1.11532785115733,"ns","k__Bacteria; p__Spirochaetes; c__Spirochaetes; o__Spirochaetales; f__Spirochaetaceae; g__Treponema; s__amylovorum"," s__amylovorum","453529 
+  s__amylovorum","453529; s__amylovorum","*","* 453529; s__amylovorum","* 453529 
+  s__amylovorum",0.600552121171126
+"11","1049979","88.1414842666929",0.598652073798172,"0.362318576794284","1.65228092662241","0.0984772956686526",0.145647092753638,"PRJEB26931",-0.107869150950681,1.30517329854702,"ns","k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__[Paraprevotellaceae]; g__[Prevotella]; s__"," g__[Prevotella]","1049979 
+  g__[Prevotella]","1049979; g__[Prevotella]","*","* 1049979; g__[Prevotella]","* 1049979 
+  g__[Prevotella]",0.598652073798172
+"151","4468411","1.96734231862992",0.584915878673289,"0.255557265174386","2.28878595282414","0.0220917920435771",0.0405720563443781,"PRJEB26931",0.0865792115832352,1.08325254576334,"ns","k__Bacteria; p__Fusobacteria; c__Fusobacteriia; o__Fusobacteriales; f__Fusobacteriaceae; g__Fusobacterium; s__"," g__Fusobacterium","4468411 
+  g__Fusobacterium","4468411; g__Fusobacterium","*","* 4468411; g__Fusobacterium","* 4468411 
+  g__Fusobacterium",0.584915878673289
+"171","509149","206.883838140019",0.580065349120749,"0.390260167298354","1.4863555077536","0.137185111713389",0.453504501531865,"PRJNA375772_Xi_an",-0.180941977111041,1.34107267535254,"ns","k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Lactobacillaceae; g__Lactobacillus; s__"," g__Lactobacillus","509149 
+  g__Lactobacillus","509149; g__Lactobacillus","*","* 509149; g__Lactobacillus","* 509149 
+  g__Lactobacillus",0.580065349120749
+"142","4449323","2.93919603309982",0.564974165034113,"0.302431116796832","1.86810858293279","0.0617469374492641",0.20304429024837,"PRJNA375772_Inner_Mongolia",-0.0247665127197102,1.15471484278794,"ns","k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Bifidobacteriales; f__Bifidobacteriaceae; g__Alloscardovia; s__"," g__Alloscardovia","4449323 
+  g__Alloscardovia","4449323; g__Alloscardovia","*","* 4449323; g__Alloscardovia","* 4449323 
+  g__Alloscardovia",0.564974165034113
+"12","1049979","30.0275281328386",0.559833325451337,"0.313796690477575","1.78406382998913","0.0744132938131043",0.22892530678812,"PRJNA375772_Inner_Mongolia",-0.0520702209799337,1.17173687188261,"ns","k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__[Paraprevotellaceae]; g__[Prevotella]; s__"," g__[Prevotella]","1049979 
+  g__[Prevotella]","1049979; g__[Prevotella]","*","* 1049979; g__[Prevotella]","* 1049979 
+  g__[Prevotella]",0.559833325451337
+"4","1007646","1.98565139865162",-0.559211476595196,"0.202073415313133","-2.76736786839893","0.00565109479748285",0.0124633734574622,"PRJNA481413",-0.953254636455804,-0.165168316734587,"ns","k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pseudomonadales; f__Moraxellaceae; g__Acinetobacter; s__"," g__Acinetobacter","1007646 
+  g__Acinetobacter","1007646; g__Acinetobacter","*","* 1007646; g__Acinetobacter","* 1007646 
+  g__Acinetobacter",0.559211476595196
+"61","236367","5.98235563392927",-0.544642796208482,"0.265935254566444","-2.04802780698037","0.0405572748144878",0.226993040359984,"PRJNA375772_Xi_an",-1.06321654261305,-0.026069049803915,"ns","k__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__SC-I-84; f__; g__; s__"," o__SC-I-84","236367 
+  o__SC-I-84","236367; o__SC-I-84",""," 236367; o__SC-I-84"," 236367 
+  o__SC-I-84",0.544642796208482
+"57","1124146","10.3963981002965",-0.52433461378664,"0.277377857619708","-1.89032613592941","0.0587143553912783",0.28014291162902,"PRJNA375772_Xi_an",-1.06522143614507,0.016552208571791,"ns","k__Bacteria; p__Nitrospirae; c__Nitrospira; o__Nitrospirales; f__Nitrospiraceae; g__; s__"," f__Nitrospiraceae","1124146 
+  f__Nitrospiraceae","1124146; f__Nitrospiraceae",""," 1124146; f__Nitrospiraceae"," 1124146 
+  f__Nitrospiraceae",0.52433461378664
+"186","555423","5.24033120367665",-0.52086299266218,"0.253583144525089","-2.05401267358544","0.0399744650960292",0.225208254062136,"PRJNA375772_Xi_an",-1.0153501244861,-0.0263758608382569,"ns","k__Bacteria; p__Proteobacteria; c__Epsilonproteobacteria; o__Campylobacterales; f__Campylobacteraceae; g__Arcobacter; s__"," g__Arcobacter","555423 
+  g__Arcobacter","555423; g__Arcobacter",""," 555423; g__Arcobacter"," 555423 
+  g__Arcobacter",0.52086299266218
+"66","2418563","1.36723067986094",0.515277978699129,"0.196509685881465","2.62215053872686","0.0087376826270421",0.0185100908283392,"PRJNA481413",0.132084091230272,0.898471866167985,"ns","k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__"," f__Lachnospiraceae","2418563 
+  f__Lachnospiraceae","2418563; f__Lachnospiraceae",""," 2418563; f__Lachnospiraceae"," 2418563 
+  f__Lachnospiraceae",0.515277978699129
+"93","4297119","1.62635217467529",0.514668025241823,"0.29029845020019","1.7728927759928","0.0762464759422805",0.334228288337982,"PRJNA375772_Xi_an",-0.0514139526485476,1.08075000313219,"ns","k__Bacteria; p__Fusobacteria; c__Fusobacteriia; o__Fusobacteriales; f__Leptotrichiaceae; g__Leptotrichia; s__"," g__Leptotrichia","4297119 
+  g__Leptotrichia","4297119; g__Leptotrichia","*","* 4297119; g__Leptotrichia","* 4297119 
+  g__Leptotrichia",0.514668025241823
+"122","4388247","1.56455699473117",0.501766619379839,"0.278589642362547","1.80109574471135","0.0716877903370983",NA,"PRJNA375772_Inner_Mongolia",-0.0414831832271275,1.0450164219868,"ns","k__Bacteria; p__Fusobacteria; c__Fusobacteriia; o__Fusobacteriales; f__Leptotrichiaceae; g__Leptotrichia; s__"," g__Leptotrichia","4388247 
+  g__Leptotrichia","4388247; g__Leptotrichia","*","* 4388247; g__Leptotrichia","* 4388247 
+  g__Leptotrichia",0.501766619379839
+"156","453529","1.46703903390258",0.491030056430469,"0.277458714167743","1.76974097895375","0.0767702999944557",NA,"PRJNA375772_Inner_Mongolia",-0.0500144361966298,1.03207454905757,"ns","k__Bacteria; p__Spirochaetes; c__Spirochaetes; o__Spirochaetales; f__Spirochaetaceae; g__Treponema; s__amylovorum"," s__amylovorum","453529 
+  s__amylovorum","453529; s__amylovorum","*","* 453529; s__amylovorum","* 453529 
+  s__amylovorum",0.491030056430469
+"26","1061162","7.31478240137742",0.487441670985705,"0.274784720957602","1.77390383747324","0.0760790578901995",0.117627357440777,"PRJEB26931",-0.0483885348816197,1.02327187685303,"ns","k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Actinomycetaceae; g__Actinomyces; s__"," g__Actinomyces","1061162 
+  g__Actinomyces","1061162; g__Actinomyces",""," 1061162; g__Actinomyces"," 1061162 
+  g__Actinomyces",0.487441670985705
+"6","1018784","3.95791018735339",0.478575789342563,"0.318405000321142","1.5030410604729","0.132828456015077",0.186773434822797,"PRJEB26931",-0.142313961283665,1.09946553996879,"ns","k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Prevotellaceae; g__Prevotella; s__"," g__Prevotella","1018784 
+  g__Prevotella","1018784; g__Prevotella","*","* 1018784; g__Prevotella","* 1018784 
+  g__Prevotella",0.478575789342563
+"87","3756908","1.38064384586967",0.448784888095153,"0.266657754995097","1.68299957412979","0.0923751738659251",0.138759862876838,"PRJEB26931",-0.0711977341452857,0.968767510335593,"ns","k__Bacteria; p__Actinobacteria; c__Coriobacteriia; o__Coriobacteriales; f__Coriobacteriaceae; g__Olsenella; s__uli"," s__uli","3756908 
+  s__uli","3756908; s__uli","*","* 3756908; s__uli","* 3756908 
+  s__uli",0.448784888095153
+"37","1077325","2.67170479676468",0.426662927738798,"0.290483244670482","1.46880391749547","0.141885981205908",0.333051153870914,"PRJNA375772_Inner_Mongolia",-0.139779399368641,0.993105254846237,"ns","k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pasteurellales; f__Pasteurellaceae; g__Actinobacillus; s__parahaemolyticus"," s__parahaemolyticus","1077325 
+  s__parahaemolyticus","1077325; s__parahaemolyticus",""," 1077325; s__parahaemolyticus"," 1077325 
+  s__parahaemolyticus",0.426662927738798
+"202","903373","2.40546969688096",0.387700217315904,"0.278178521628972","1.39371010761575","0.163405162735108",0.217051385972672,"PRJEB26931",-0.154747899860592,0.930148334492399,"ns","k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Veillonellaceae; g__Selenomonas; s__"," g__Selenomonas","903373 
+  g__Selenomonas","903373; g__Selenomonas","*","* 903373; g__Selenomonas","* 903373 
+  g__Selenomonas",0.387700217315904
+"144","4449323","1.29672365000837",0.38747462923262,"0.186816537966735","2.07409169150547","0.0380707960643637",0.0666238931126365,"PRJNA481413",0.0231823801974873,0.751766878267752,"ns","k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Bifidobacteriales; f__Bifidobacteriaceae; g__Alloscardovia; s__"," g__Alloscardovia","4449323 
+  g__Alloscardovia","4449323; g__Alloscardovia","*","* 4449323; g__Alloscardovia","* 4449323 
+  g__Alloscardovia",0.38747462923262
+"190","689559","11.4812429882794",-0.383181949339358,"0.270367080778142","-1.41726554962433","0.156405303389714",0.481247087352966,"PRJNA375772_Xi_an",-0.910397756856734,0.144033858178018,"ns","k__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Rhodocyclales; f__Rhodocyclaceae; g__; s__"," f__Rhodocyclaceae","689559 
+  f__Rhodocyclaceae","689559; f__Rhodocyclaceae",""," 689559; f__Rhodocyclaceae"," 689559 
+  f__Rhodocyclaceae",0.383181949339358
+"2","1007646","67.9677935166759",-0.380972231231455,"0.339834379297875","-1.12105264928926","0.262265452319627",0.477746572649946,"PRJNA375772_Inner_Mongolia",-1.04364927086231,0.281704808399401,"ns","k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pseudomonadales; f__Moraxellaceae; g__Acinetobacter; s__"," g__Acinetobacter","1007646 
+  g__Acinetobacter","1007646; g__Acinetobacter","*","* 1007646; g__Acinetobacter","* 1007646 
+  g__Acinetobacter",0.380972231231455
+"32","1069168","1.4040010974989",0.37525547969323,"0.282458060894844","1.32853521157937","0.184001359198432",NA,"PRJNA375772_Inner_Mongolia",-0.175537739051716,0.926048698438177,"ns","k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Prevotellaceae; g__Prevotella; s__"," g__Prevotella","1069168 
+  g__Prevotella","1069168; g__Prevotella",""," 1069168; g__Prevotella"," 1069168 
+  g__Prevotella",0.37525547969323
+"138","4432270","4.94684460993029",0.363478304285405,"0.33807513795044","1.07514059297282","0.282311787846696",0.627359528548214,"PRJNA375772_Xi_an",-0.295768214717952,1.02272482328876,"ns","k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Lactobacillaceae; g__Lactobacillus; s__mucosae"," s__mucosae","4432270 
+  s__mucosae","4432270; s__mucosae",""," 4432270; s__mucosae"," 4432270 
+  s__mucosae",0.363478304285405
+"123","4388247","1.3374862824399",0.335465287004848,"0.281363818350581","1.19228296293184","0.233150312548946",NA,"PRJNA375772_Xi_an",-0.213194158778785,0.884124732788481,"ns","k__Bacteria; p__Fusobacteria; c__Fusobacteriia; o__Fusobacteriales; f__Leptotrichiaceae; g__Leptotrichia; s__"," g__Leptotrichia","4388247 
+  g__Leptotrichia","4388247; g__Leptotrichia","*","* 4388247; g__Leptotrichia","* 4388247 
+  g__Leptotrichia",0.335465287004848
+"73","336228","7.04083803534034",0.291512820506741,"0.269744655376942","1.08069915268342","0.279830960134213",0.339656889542217,"PRJEB26931",-0.234489257478295,0.817514898491778,"ns","k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Veillonellaceae; g__Dialister; s__"," g__Dialister","336228 
+  g__Dialister","336228; g__Dialister","*","* 336228; g__Dialister","* 336228 
+  g__Dialister",0.291512820506741
+"117","4342220","3.76577829629368",0.284837862742135,"0.365775690067121","0.778722781412474","0.436143033275129",0.640928680201581,"PRJNA375772_Inner_Mongolia",-0.42842473288875,0.998100458373021,"ns","k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Prevotellaceae; g__Prevotella; s__"," g__Prevotella","4342220 
+  g__Prevotella","4342220; g__Prevotella","*","* 4342220; g__Prevotella","* 4342220 
+  g__Prevotella",0.284837862742135
+"167","471157","1.24116461032454",0.270102280431018,"0.189877294417672","1.42250963317855","0.154878356988979",0.219718209481409,"PRJNA481413",-0.100158443683442,0.640363004545479,"ns","k__Bacteria; p__Actinobacteria; c__Coriobacteriia; o__Coriobacteriales; f__Coriobacteriaceae; g__Slackia; s__"," g__Slackia","471157 
+  g__Slackia","471157; g__Slackia","*","* 471157; g__Slackia","* 471157 
+  g__Slackia",0.270102280431018
+"84","36932","1.64471358505489",-0.232914479538841,"0.275512868639164","-0.845385120082672","0.397895849669529",NA,"PRJNA375772_Inner_Mongolia",-0.770164573385211,0.304335614307529,"ns","k__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Neisseriales; f__Neisseriaceae; g__Vogesella; s__"," g__Vogesella","36932 
+  g__Vogesella","36932; g__Vogesella",""," 36932; g__Vogesella"," 36932 
+  g__Vogesella",0.232914479538841
+"47","1102876","14.7127156978976",-0.148530615195617,"0.390067841663818","-0.380781493193764","0.703365392877721",0.84609474173339,"PRJNA375772_Inner_Mongolia",-0.909162906440063,0.612101676048829,"ns","k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Micrococcaceae; g__Rothia; s__mucilaginosa"," s__mucilaginosa","1102876 
+  s__mucilaginosa","1102876; s__mucilaginosa","*","* 1102876; s__mucilaginosa","* 1102876 
+  s__mucilaginosa",0.148530615195617
+"41","1087878","30.6835702146781",0.146524405878506,"0.242743587113512","0.603618030123237","0.546097622731652",0.601961471403575,"PRJEB26931",-0.326825588992841,0.619874400749854,"ns","k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Actinomycetaceae; g__Actinomyces; s__"," g__Actinomyces","1087878 
+  g__Actinomyces","1087878; g__Actinomyces","*","* 1087878; g__Actinomyces","* 1087878 
+  g__Actinomyces",0.146524405878506
+"111","4338372","3.26318725970701",0.137063154967621,"0.283690026869494","0.483144072705363","0.628993442589472",0.681248282435366,"PRJEB26931",-0.416132397427892,0.690258707363134,"ns","k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Prevotellaceae; g__Prevotella; s__"," g__Prevotella","4338372 
+  g__Prevotella","4338372; g__Prevotella","*","* 4338372; g__Prevotella","* 4338372 
+  g__Prevotella",0.137063154967621
+"23","1052622","4.1337027839572",-0.129150244008306,"0.314082317693025","-0.411198710442954","0.680926833784388",0.894084932118262,"PRJNA375772_Xi_an",-0.741610763509705,0.483310275493093,"ns","k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Micrococcaceae; g__Rothia; s__dentocariosa"," s__dentocariosa","1052622 
+  s__dentocariosa","1052622; s__dentocariosa","*","* 1052622; s__dentocariosa","* 1052622 
+  s__dentocariosa",0.129150244008306
+"198","851961","4.38711843234608",0.105472746152217,"0.367284750182234","0.287168868568285","0.773983022130243",0.889730688545777,"PRJNA375772_Inner_Mongolia",-0.61073251670314,0.821678009007574,"ns","k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Prevotellaceae; g__Prevotella; s__"," g__Prevotella","851961 
+  g__Prevotella","851961; g__Prevotella","*","* 851961; g__Prevotella","* 851961 
+  g__Prevotella",0.105472746152217
+"209","960338","4.62589814186408",-0.00396095347526998,"0.287611960123144","-0.0137718663492786","0.989011987806513",0.99437129244782,"PRJNA375772_Xi_an",-0.5648042757154,0.55688236876486,"ns","k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Actinomycetaceae; g__Actinomyces; s__"," g__Actinomyces","960338 
+  g__Actinomyces","960338; g__Actinomyces",""," 960338; g__Actinomyces"," 960338 
+  g__Actinomyces",0.00396095347526998
